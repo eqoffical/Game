@@ -1,0 +1,79 @@
+[gd_scene format=3 uid="uid://ba3miurqpsd5n"]
+
+[ext_resource type="Texture2D" uid="uid://4do1hcblsog3" path="res://assets/freedoom-0.13.0/graphics/FLAT1_1.png" id="1_7p6vc"]
+[ext_resource type="PackedScene" uid="uid://cmt1pdnkxvf1c" path="res://scenes/entities/player.tscn" id="2_wssys"]
+[ext_resource type="Texture2D" uid="uid://do0alhxjjhrss" path="res://assets/freedoom-0.13.0/graphics/SLIME16.png" id="3_8vp12"]
+[ext_resource type="Texture2D" uid="uid://cukd1t67mdpls" path="res://assets/freedoom-0.13.0/graphics/W33_5.png" id="4_jsinw"]
+
+[sub_resource type="Environment" id="Environment_wssys"]
+background_mode = 1
+background_color = Color(0.446777, 0.44677705, 0.44677705, 1)
+background_energy_multiplier = 1.68
+ambient_light_energy = 3.25
+
+[sub_resource type="CameraAttributesPractical" id="CameraAttributesPractical_jjlym"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_j3wxa"]
+albedo_texture = ExtResource("1_7p6vc")
+uv1_scale = Vector3(8, 8, 8)
+texture_filter = 0
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_cx6xd"]
+material = SubResource("StandardMaterial3D_j3wxa")
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_cx6xd"]
+size = Vector3(2, 0, 2)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_xruia"]
+albedo_texture = ExtResource("3_8vp12")
+uv1_scale = Vector3(3, 2, 2)
+texture_filter = 0
+
+[sub_resource type="BoxMesh" id="BoxMesh_cx6xd"]
+material = SubResource("StandardMaterial3D_xruia")
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_jjlym"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_r2gwg"]
+albedo_texture = ExtResource("4_jsinw")
+uv1_scale = Vector3(3, 2, 2)
+texture_filter = 0
+
+[sub_resource type="BoxMesh" id="BoxMesh_lcblx"]
+material = SubResource("StandardMaterial3D_r2gwg")
+
+[node name="Node3D" type="Node3D" unique_id=699808292]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=374572758]
+environment = SubResource("Environment_wssys")
+camera_attributes = SubResource("CameraAttributesPractical_jjlym")
+
+[node name="Floor" type="StaticBody3D" parent="." unique_id=591240990]
+transform = Transform3D(8, 0, 0, 0, 8, 0, 0, 0, 8, 0, 0, 0)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Floor" unique_id=1091067138]
+mesh = SubResource("PlaneMesh_cx6xd")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Floor" unique_id=1927216614]
+shape = SubResource("BoxShape3D_cx6xd")
+
+[node name="CharacterBody3D" parent="." unique_id=307016102 instance=ExtResource("2_wssys")]
+
+[node name="Box1" type="StaticBody3D" parent="." unique_id=618562688]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 1, -5)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Box1" unique_id=1879227372]
+mesh = SubResource("BoxMesh_cx6xd")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Box1" unique_id=994786895]
+shape = SubResource("BoxShape3D_jjlym")
+
+[node name="Box2" type="StaticBody3D" parent="." unique_id=2118383708]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 1, -4.955395)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Box2" unique_id=1395356874]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 5)
+mesh = SubResource("BoxMesh_lcblx")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Box2" unique_id=1017079293]
+shape = SubResource("BoxShape3D_jjlym")

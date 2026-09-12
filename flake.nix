@@ -7,13 +7,13 @@
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
-      godot = pkgs.godot_4_7;
     in {
       devShells.${system}.default = pkgs.mkShell {
         name = "godot";
-        packages = [
-          godot
-          pkgs.godot_4_7-export-templates-bin
+        packages = with pkgs; [
+          godot_4_7
+          godot_4_7-export-templates-bin
+          slade
         ];
         shellHook = ''
           mkdir -p "$HOME/.local/share/godot"

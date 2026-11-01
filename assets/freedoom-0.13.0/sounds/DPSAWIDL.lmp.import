@@ -1,0 +1,14 @@
+[remap]
+
+importer="func_godot.palette"
+type="QuakePaletteFile"
+uid="uid://pe104fpoy4jx"
+path="res://.godot/imported/DPSAWIDL.lmp-275f137c0504ff096694d62f43c0ba75.tres"
+
+[deps]
+
+source_file="res://assets/freedoom-0.13.0/sounds/DPSAWIDL.lmp"
+dest_files=["res://.godot/imported/DPSAWIDL.lmp-275f137c0504ff096694d62f43c0ba75.tres"]
+
+[params]
+

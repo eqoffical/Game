@@ -8,18 +8,15 @@ const GROUND_ACCEL := 14.0		# ground sv_accelerate
 const AIR_ACCEL := 14.0			# air sv_accelerate
 const GROUND_FRICTION := 6.0	# sv_friction
 const STOP_SPEED := 1.5			# sv_stopspeed
-const JUMP_VELOCITY := 3.5
-const GRAVITY := 9.81
+const JUMP_VELOCITY := 4
+const GRAVITY := 10.0
 
 func _ready():
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 
 func _process(delta: float) -> void:
 	%ViewmodelCamera.global_transform = $PlayerCamera.global_transform	# Copying viewmodel to player camera
-	if Vector2(velocity.x, velocity.z).length() > 0.01:
-		%Shotgun.rotation.y = sin(Time.get_ticks_msec() / 200.0) * 0.05	# Temporary debug wobble, will delete it later
-	else:
-		%Shotgun.rotation.y = 0.0
+	%Shotgun.rotation.y = 0.0
 
 func _unhandled_input(event: InputEvent) -> void:
 	if event is InputEventMouseMotion:
@@ -44,6 +41,9 @@ func _physics_process(delta: float) -> void:
 	
 	velocity.y -= GRAVITY * delta
 	move_and_slide()
+	
+	if Input.is_action_pressed("attack1") and %Timer.is_stopped():
+		shoot_bullet()
 
 # SV_UserFriction, ground horizontal speed
 func _apply_friction(delta: float) -> void:
@@ -75,3 +75,11 @@ func _air_accelerate(wishdir: Vector3, wishspeed: float, accel: float, delta: fl
 		return
 	var accel_speed: float = min(accel * delta * wishspeed, add_speed)
 	velocity += accel_speed * wishdir
+
+func shoot_bullet():
+	const BULLET_3D = preload("uid://dun60ksa6v0ai")
+	var new_bullet = BULLET_3D.instantiate()
+	%Marker3D.add_child(new_bullet)
+	new_bullet.global_transform = %Marker3D.global_transform
+	
+	%Timer.start()

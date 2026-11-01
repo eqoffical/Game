@@ -11,18 +11,19 @@ config_version=5
 [application]
 
 config/name="Game"
-run/main_scene="uid://ba3miurqpsd5n"
+run/main_scene="uid://buoo7kq2shslv"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
 [display]
 
+window/size/mode=3
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/func_godot/plugin.cfg", "res://addons/godot-neovim/plugin.cfg")
+enabled=PackedStringArray("res://addons/func_godot/plugin.cfg")
 
 [input]
 

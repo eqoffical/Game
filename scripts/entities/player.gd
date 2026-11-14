@@ -12,6 +12,7 @@ const JUMP_VELOCITY := 4
 const GRAVITY := 10.0
 
 func _ready():
+	add_to_group("player")
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 
 func _process(delta: float) -> void:

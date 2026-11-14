@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://75iex1wh03co"]
+
+[ext_resource type="Script" uid="uid://b1xyb6evc6wga" path="res://scripts/entities/mob.gd" id="1_8xm3j"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_2h7tb"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_jjlym"]
+albedo_color = Color(0, 0.39215687, 0, 1)
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_8xm3j"]
+material = SubResource("StandardMaterial3D_jjlym")
+
+[node name="Mob" type="RigidBody3D" unique_id=2086174491]
+script = ExtResource("1_8xm3j")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=802318674]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+shape = SubResource("CapsuleShape3D_2h7tb")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=816271315]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+mesh = SubResource("CapsuleMesh_8xm3j")

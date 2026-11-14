@@ -16,6 +16,9 @@
         in
 
         pkgs.writeShellScriptBin "trenchbroom" ''
+          export QT_QPA_PLATFORM=xcb
+          export LD_LIBRARY_PATH=/run/opengl-driver/lib''${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}
+          export __GLX_VENDOR_LIBRARY_NAME=nvidia
           exec ${pkgs.appimage-run}/bin/appimage-run ${appimage}/TrenchBroom.AppImage "$@"
         '';
     in {

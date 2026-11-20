@@ -1,0 +1,14 @@
+[remap]
+
+importer="func_godot.map"
+type="QuakeMapFile"
+uid="uid://0yvji4m4r1vl"
+path="res://.godot/imported/new_map.map-489de93a158c39043a269073b84bf52f.tres"
+
+[deps]
+
+source_file="res://trenchbroom/maps/new_map.map"
+dest_files=["res://.godot/imported/new_map.map-489de93a158c39043a269073b84bf52f.tres"]
+
+[params]
+

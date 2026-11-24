@@ -1,0 +1,86 @@
+[gd_scene format=3 uid="uid://dw2dynoqrfb74"]
+
+[ext_resource type="Script" uid="uid://nuckibwldr17" path="res://scripts/Menu/main_menu.gd" id="1_bdi62"]
+[ext_resource type="Texture2D" uid="uid://d3rhbf8r2lag1" path="res://assets/textures/Menu/button.png" id="1_r1di0"]
+[ext_resource type="Texture2D" uid="uid://v4jhn30s358m" path="res://assets/freedoom-0.13.0/graphics/M_NEWG.png" id="2_bdi62"]
+[ext_resource type="Texture2D" uid="uid://b5c7ledbt2m35" path="res://assets/textures/Menu/bg.webp" id="2_vnkkj"]
+[ext_resource type="Texture2D" uid="uid://njn41wsv3n34" path="res://assets/freedoom-0.13.0/graphics/M_QUITG.png" id="3_vnkkj"]
+[ext_resource type="Texture2D" uid="uid://mecfdlrjs61v" path="res://assets/textures/Menu/button_pressed.png" id="4_7m22u"]
+[ext_resource type="Texture2D" uid="uid://w5wrmt4r5gcy" path="res://assets/textures/Menu/button_selected.png" id="6_tnxxl"]
+
+[node name="Control" type="Control" unique_id=827728260]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_bdi62")
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=1475911276]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -578.0
+offset_top = -389.0
+offset_right = 580.0
+offset_bottom = 385.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_vnkkj")
+expand_mode = 1
+
+[node name="StartButton" type="TextureButton" parent="." unique_id=55587941]
+custom_minimum_size = Vector2(500, 100)
+layout_mode = 0
+offset_left = 328.0
+offset_top = 195.0
+offset_right = 828.0
+offset_bottom = 295.0
+texture_normal = ExtResource("1_r1di0")
+texture_pressed = ExtResource("4_7m22u")
+texture_hover = ExtResource("6_tnxxl")
+ignore_texture_size = true
+stretch_mode = 0
+
+[node name="Text" type="TextureRect" parent="StartButton" unique_id=1643683875]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 111.0
+offset_top = 31.0
+offset_right = -111.0
+offset_bottom = -30.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_bdi62")
+
+[node name="ExitButton" type="TextureButton" parent="." unique_id=699617784]
+custom_minimum_size = Vector2(500, 100)
+layout_mode = 0
+offset_left = 326.0
+offset_top = 335.0
+offset_right = 826.0
+offset_bottom = 435.0
+texture_normal = ExtResource("1_r1di0")
+texture_pressed = ExtResource("4_7m22u")
+texture_hover = ExtResource("6_tnxxl")
+ignore_texture_size = true
+stretch_mode = 0
+
+[node name="Text" type="TextureRect" parent="ExitButton" unique_id=510352897]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 115.0
+offset_top = 29.0
+offset_right = -114.0
+offset_bottom = -30.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("3_vnkkj")

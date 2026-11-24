@@ -3,17 +3,23 @@
 [ext_resource type="Script" uid="uid://cwxuvyb3mfbmk" path="res://scripts/entities/player.gd" id="1_ucweq"]
 [ext_resource type="Texture2D" uid="uid://dpswddnr80w5x" path="res://assets/textures/hp-bar/under.png" id="2_5u6hq"]
 [ext_resource type="Script" uid="uid://dpmuru5vfigex" path="res://scripts/entities/HealthComponent.gd" id="2_08t41"]
+[ext_resource type="Texture2D" uid="uid://cesy4cq2ohvk1" path="res://assets/freedoom-0.13.0/graphics/AQF025.png" id="2_ss7kx"]
 [ext_resource type="Texture2D" uid="uid://b25p85ki57yr8" path="res://assets/textures/hp-bar/frame.png" id="3_d4qa6"]
+[ext_resource type="Texture2D" uid="uid://dlis04mjm4yyr" path="res://assets/freedoom-0.13.0/graphics/AQBRIK02.png" id="3_dnykm"]
 [ext_resource type="Texture2D" uid="uid://dt6tojk466qir" path="res://assets/textures/hp-bar/progress.png" id="4_ss7kx"]
+[ext_resource type="PackedScene" uid="uid://b4n2y5dlb0ia2" path="res://scenes/levels/PauseMenu.tscn" id="7_dnykm"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_hrxse"]
-albedo_color = Color(0.23392546, 0.23392546, 0.23392543, 1)
+albedo_color = Color(0.5890956, 0.58909565, 0.5890954, 1)
+albedo_texture = ExtResource("2_ss7kx")
+texture_filter = 0
 
 [sub_resource type="BoxMesh" id="BoxMesh_jjlym"]
 size = Vector3(0.17, 0.17, 0.665)
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_0qees"]
-albedo_color = Color(0.32, 0.17066666, 0, 1)
+albedo_texture = ExtResource("3_dnykm")
+texture_filter = 0
 
 [sub_resource type="BoxMesh" id="BoxMesh_ucweq"]
 size = Vector3(0.21, 0.21, 0.3)
@@ -81,14 +87,18 @@ anchor_left = 1.0
 anchor_top = 1.0
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_left = -260.0
-offset_top = -34.0
+offset_left = -270.0
+offset_top = -44.0
+offset_right = -10.0
+offset_bottom = -10.0
 grow_horizontal = 0
 grow_vertical = 0
 nine_patch_stretch = true
 texture_under = ExtResource("2_5u6hq")
 texture_over = ExtResource("3_d4qa6")
 texture_progress = ExtResource("4_ss7kx")
+
+[node name="Pausemenu" parent="CanvasLayer" unique_id=827728260 instance=ExtResource("7_dnykm")]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=484138198]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)

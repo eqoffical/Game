@@ -49,8 +49,8 @@ const SOUND_PAIN := [
 	preload("res://assets/freedoom-0.13.0/sounds/DSTELEPT.wav"),
 	preload("res://assets/freedoom-0.13.0/sounds/DSPOPAIN.wav"),
 ]
-const SOUND_HIT := preload("res://assets/freedoom-0.13.0/sounds/DSPUNCH.wav")
-const SOUND_LAND := preload("res://assets/freedoom-0.13.0/sounds/DSSKESWG.wav")
+const SOUND_HIT := preload("res://assets/freedoom-0.13.0/sounds/DSPOPAIN.wav")
+const SOUND_LAND := preload("res://assets/freedoom-0.13.0/sounds/DSOOF.wav")
 
 enum MoveType { STEP, BOUNCE }
 enum State { RUN, JUMP1, JUMP2, JUMP3, JUMP4, JUMP5, JUMP6, FLY1, FLY2, FLY3, FLY4 }

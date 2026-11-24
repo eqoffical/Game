@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://cmt1pdnkxvf1c"]
 
 [ext_resource type="Script" uid="uid://cwxuvyb3mfbmk" path="res://scripts/entities/player.gd" id="1_ucweq"]
+[ext_resource type="Script" uid="uid://dpmuru5vfigex" path="res://scripts/entities/HealthComponent.gd" id="2_08t41"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_hrxse"]
 albedo_color = Color(0.23392546, 0.23392546, 0.23392543, 1)
@@ -83,3 +84,7 @@ mesh = SubResource("CapsuleMesh_jjlym")
 unique_name_in_owner = true
 wait_time = 0.4
 one_shot = true
+
+[node name="HealthComponent" type="Node" parent="." unique_id=1915732766]
+script = ExtResource("2_08t41")
+metadata/_custom_type_script = "uid://dpmuru5vfigex"

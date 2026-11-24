@@ -11,9 +11,16 @@ const STOP_SPEED := 1.5			# sv_stopspeed
 const JUMP_VELOCITY := 4
 const GRAVITY := 10.0
 
+@onready var health_component: HealthComponent = $HealthComponent
+@onready var health_bar: TextureProgressBar = get_node_or_null("../CanvasLayer/TextureProgressBar")
+
 func _ready():
 	add_to_group("player")
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	if health_component:
+		health_component.health_changed.connect(_on_health_changed)
+		health_component.died.connect(_on_died)
+		_on_health_changed(health_component.current_hp, health_component.max_hp)
 
 func _process(delta: float) -> void:
 	%ViewmodelCamera.global_transform = $PlayerCamera.global_transform	# Copying viewmodel to player camera
@@ -80,7 +87,17 @@ func _air_accelerate(wishdir: Vector3, wishspeed: float, accel: float, delta: fl
 func shoot_bullet():
 	const BULLET_3D = preload("uid://dun60ksa6v0ai")
 	var new_bullet = BULLET_3D.instantiate()
-	%Marker3D.add_child(new_bullet)
+	new_bullet.shooter = self
+	get_tree().current_scene.add_child(new_bullet)
 	new_bullet.global_transform = %Marker3D.global_transform
 	
 	%Timer.start()
+
+func _on_health_changed(current_hp: float, max_hp: float) -> void:
+	if health_bar:
+		health_bar.max_value = max_hp
+		health_bar.value = current_hp
+
+func _on_died() -> void:
+	Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
+	get_tree().reload_current_scene()

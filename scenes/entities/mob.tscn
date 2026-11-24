@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://75iex1wh03co"]
 
 [ext_resource type="Script" uid="uid://b1xyb6evc6wga" path="res://scripts/entities/mob.gd" id="1_8xm3j"]
+[ext_resource type="Script" uid="uid://dpmuru5vfigex" path="res://scripts/entities/HealthComponent.gd" id="2_frfq2"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_2h7tb"]
 
@@ -20,3 +21,7 @@ shape = SubResource("CapsuleShape3D_2h7tb")
 [node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=816271315]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
 mesh = SubResource("CapsuleMesh_8xm3j")
+
+[node name="HealthComponent" type="Node" parent="." unique_id=2012184695]
+script = ExtResource("2_frfq2")
+metadata/_custom_type_script = "uid://dpmuru5vfigex"

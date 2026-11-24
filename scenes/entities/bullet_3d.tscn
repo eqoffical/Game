@@ -16,6 +16,7 @@ top_level = true
 script = ExtResource("1_5yx4l")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=268216136]
+transform = Transform3D(0.61552703, 0, 0, 0, 0.6, 0, -1.7763568e-15, 0, 0.6, 0, 0, 0)
 shape = SubResource("SphereShape3D_jjlym")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=92581183]

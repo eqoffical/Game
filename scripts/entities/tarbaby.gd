@@ -37,6 +37,10 @@ const RANGE_MID := 1000.0 * U
 const SIGHT_RANGE := 20.0
 const NIGHTMARE := false		# skill 3: no delay between attacks
 
+# --- pain ---
+const PAIN_TIME := 0.25			# freeze in place (even mid-air) when hit
+const PAIN_COOLDOWN := 1.0		# no new flinch until this long after the last one (includes PAIN_TIME)
+
 enum MoveType { STEP, BOUNCE }
 enum State { RUN, JUMP1, JUMP2, JUMP3, JUMP4, JUMP5, JUMP6, FLY1, FLY2, FLY3, FLY4 }
 enum AttackState { STRAIGHT, MELEE, MISSILE }
@@ -54,6 +58,8 @@ var attack_state := AttackState.STRAIGHT
 var attack_finished := 0.0
 var ideal_yaw := 0.0
 var time := 0.0
+var pain_timer := 0.0
+var pain_cooldown := 0.0
 
 var _hull_min := Vector3.ZERO	# local-space collision bounds
 var _hull_max := Vector3.ZERO
@@ -73,10 +79,16 @@ func _ready() -> void:
 	_hull_max = aabb.end
 
 	if health_component:
+		health_component.damaged.connect(_on_damaged)
 		health_component.died.connect(_on_died)
 
 
 func _physics_process(delta: float) -> void:
+	pain_cooldown = maxf(pain_cooldown - delta, 0.0)
+	if pain_timer > 0.0:	# frozen: velocity and think timer are kept, so it resumes mid-arc
+		pain_timer -= delta
+		return
+
 	time += delta
 	if move_type == MoveType.BOUNCE:
 		_physics_toss(delta)
@@ -326,6 +338,13 @@ func _can_see_player() -> bool:
 	var query := PhysicsRayQueryParameters3D.create(from, to, collision_mask, [get_rid()])
 	var hit := get_world_3d().direct_space_state.intersect_ray(query)
 	return not hit.is_empty() and hit.collider == player
+
+
+func _on_damaged(_amount: float) -> void:
+	if pain_cooldown > 0.0:
+		return	# still takes the damage, just doesn't flinch
+	pain_timer = PAIN_TIME
+	pain_cooldown = PAIN_COOLDOWN
 
 
 func _on_died() -> void:

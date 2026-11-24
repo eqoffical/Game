@@ -13,7 +13,7 @@ const GRAVITY := 10.0
 
 const SOUND_HURT := preload("res://assets/freedoom-0.13.0/sounds/DSSKLDTH.wav")
 const SOUND_SHOOT := preload("res://assets/freedoom-0.13.0/sounds/DSPISTOL.wav")
-const SOUND_JUMP := preload("res://assets/freedoom-0.13.0/sounds/DSJUMP.wav")
+const SOUND_JUMP := preload("res://assets/freedoom-0.13.0/sounds/DSTINK.wav")
 
 @onready var health_component: HealthComponent = $HealthComponent
 @onready var health_bar: TextureProgressBar = %HealthBar

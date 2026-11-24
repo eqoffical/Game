@@ -8,7 +8,7 @@
 [ext_resource type="Texture2D" uid="uid://mecfdlrjs61v" path="res://assets/textures/Menu/button_pressed.png" id="4_7m22u"]
 [ext_resource type="Texture2D" uid="uid://w5wrmt4r5gcy" path="res://assets/textures/Menu/button_selected.png" id="6_tnxxl"]
 
-[node name="Control" type="Control" unique_id=827728260]
+[node name="MainMenu" type="Control" unique_id=827728260]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0

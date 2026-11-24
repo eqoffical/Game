@@ -8,12 +8,25 @@ const ATTACK_DAMAGE := 15.0
 const ATTACK_COOLDOWN := 1.0
 const PAIN_TIME := 0.25		# freeze in place (even mid-air) when hit
 const PAIN_COOLDOWN := 1.0	# no new flinch until this long after the last one (includes PAIN_TIME)
+const ROAM_SOUND_MIN := 3.0	# seconds between "active" grunts while chasing
+const ROAM_SOUND_MAX := 8.0
+
+const SOUND_ROAM := [
+	preload("res://assets/freedoom-0.13.0/sounds/DSPOSACT.wav"),
+	preload("res://assets/freedoom-0.13.0/sounds/DSMANSIT.wav"),
+]
+const SOUND_PAIN := [
+	preload("res://assets/freedoom-0.13.0/sounds/DSPEPAIN.wav"),
+	preload("res://assets/freedoom-0.13.0/sounds/DSDMPAIN.wav"),
+]
+const SOUND_ATTACK := preload("res://assets/freedoom-0.13.0/sounds/DSCLAW.wav")
 
 var memory := 0.0
 var attack_timer := 0.0
 var pain_timer := 0.0
 var pain_cooldown := 0.0
 var _saved_velocity := Vector3.ZERO
+var roam_sound_timer := randf_range(ROAM_SOUND_MIN, ROAM_SOUND_MAX)
 
 @onready var player: Node3D = get_tree().get_first_node_in_group("player")
 @onready var health_component: HealthComponent = $HealthComponent
@@ -35,6 +48,11 @@ func _physics_process(delta: float) -> void:
 
 	attack_timer = maxf(attack_timer - delta, 0.0)
 
+	roam_sound_timer -= delta
+	if roam_sound_timer <= 0.0:
+		roam_sound_timer = randf_range(ROAM_SOUND_MIN, ROAM_SOUND_MAX)
+		Sfx.play_at(self, SOUND_ROAM)
+
 	if player == null or not is_instance_valid(player):
 		return
 
@@ -55,6 +73,11 @@ func _physics_process(delta: float) -> void:
 		return
 	var direction := to_player.normalized()
 
+	roam_sound_timer -= delta
+	if roam_sound_timer <= 0.0:
+		roam_sound_timer = randf_range(ROAM_SOUND_MIN, ROAM_SOUND_MAX)
+		Sfx.play_at(self, SOUND_ROAM)
+
 	linear_velocity.x = direction.x * SPEED
 	linear_velocity.z = direction.z * SPEED
 	$MeshInstance3D.rotation.y = atan2(-direction.x, -direction.z)
@@ -65,6 +88,7 @@ func _physics_process(delta: float) -> void:
 func _attack_player() -> void:
 	var player_health := player.get_node_or_null("HealthComponent") as HealthComponent
 	if player_health != null:
+		Sfx.play_at(self, SOUND_ATTACK)
 		player_health.take_damage(ATTACK_DAMAGE)
 		attack_timer = ATTACK_COOLDOWN
 
@@ -75,6 +99,7 @@ func _on_damaged(_amount: float) -> void:
 	set_deferred("freeze", true)	# deferred: the hit usually arrives mid physics step
 	pain_timer = PAIN_TIME
 	pain_cooldown = PAIN_COOLDOWN
+	Sfx.play_at(self, SOUND_PAIN)
 
 func _on_died() -> void:
 	queue_free()

@@ -41,6 +41,17 @@ const NIGHTMARE := false		# skill 3: no delay between attacks
 const PAIN_TIME := 0.25			# freeze in place (even mid-air) when hit
 const PAIN_COOLDOWN := 1.0		# no new flinch until this long after the last one (includes PAIN_TIME)
 
+# --- sounds ---
+const SOUND_FOUND := preload("res://assets/freedoom-0.13.0/sounds/DSSPISIT.wav")
+const SOUND_PAIN := [
+	preload("res://assets/freedoom-0.13.0/sounds/DSSKLATK.wav"),
+	preload("res://assets/freedoom-0.13.0/sounds/DSRADIO.wav"),
+	preload("res://assets/freedoom-0.13.0/sounds/DSTELEPT.wav"),
+	preload("res://assets/freedoom-0.13.0/sounds/DSPOPAIN.wav"),
+]
+const SOUND_HIT := preload("res://assets/freedoom-0.13.0/sounds/DSPUNCH.wav")
+const SOUND_LAND := preload("res://assets/freedoom-0.13.0/sounds/DSSKESWG.wav")
+
 enum MoveType { STEP, BOUNCE }
 enum State { RUN, JUMP1, JUMP2, JUMP3, JUMP4, JUMP5, JUMP6, FLY1, FLY2, FLY3, FLY4 }
 enum AttackState { STRAIGHT, MELEE, MISSILE }
@@ -60,6 +71,7 @@ var ideal_yaw := 0.0
 var time := 0.0
 var pain_timer := 0.0
 var pain_cooldown := 0.0
+var found_player := false		# sight sound plays once
 
 var _hull_min := Vector3.ZERO	# local-space collision bounds
 var _hull_max := Vector3.ZERO
@@ -206,9 +218,9 @@ func _jump_touch(other: Object) -> void:
 	if hc:
 		if velocity.length() > DAMAGE_SPEED:
 			hc.take_damage(DAMAGE_MIN + DAMAGE_RANDOM * randf())
-			# sound: blob/hit1
+			Sfx.play_at(self, SOUND_HIT)
 	else:
-		pass	# sound: blob/land1
+		Sfx.play_at(self, SOUND_LAND)
 
 	if not _check_bottom():
 		if on_ground:	# stuck somewhere it can't stand: go back to walking
@@ -271,6 +283,9 @@ func _ai_face() -> void:
 func _ai_run(dist: float) -> void:
 	if not _has_player() or not _can_see_player():
 		return
+	if not found_player:
+		found_player = true
+		Sfx.play_at(self, SOUND_FOUND)
 
 	var r := global_position.distance_to(player.global_position)
 	ideal_yaw = _yaw_to(player.global_position)
@@ -345,6 +360,7 @@ func _on_damaged(_amount: float) -> void:
 		return	# still takes the damage, just doesn't flinch
 	pain_timer = PAIN_TIME
 	pain_cooldown = PAIN_COOLDOWN
+	Sfx.play_at(self, SOUND_PAIN)
 
 
 func _on_died() -> void:

@@ -11,6 +11,10 @@ const STOP_SPEED := 1.5			# sv_stopspeed
 const JUMP_VELOCITY := 4
 const GRAVITY := 10.0
 
+const SOUND_HURT := preload("res://assets/freedoom-0.13.0/sounds/DSSKLDTH.wav")
+const SOUND_SHOOT := preload("res://assets/freedoom-0.13.0/sounds/DSPISTOL.wav")
+const SOUND_JUMP := preload("res://assets/freedoom-0.13.0/sounds/DSJUMP.wav")
+
 @onready var health_component: HealthComponent = $HealthComponent
 @onready var health_bar: TextureProgressBar = %HealthBar
 
@@ -19,6 +23,7 @@ func _ready():
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	if health_component:
 		health_component.health_changed.connect(_on_health_changed)
+		health_component.damaged.connect(_on_damaged)
 		health_component.died.connect(_on_died)
 		_on_health_changed(health_component.current_hp, health_component.max_hp)
 
@@ -44,6 +49,7 @@ func _physics_process(delta: float) -> void:
 		_accelerate(wishdir, wishspeed, GROUND_ACCEL, delta)
 		if Input.is_action_just_pressed("jump"):
 			velocity.y = JUMP_VELOCITY
+			Sfx.play_flat(self, SOUND_JUMP)
 	else:
 		_air_accelerate(wishdir, wishspeed, AIR_ACCEL, delta)
 	
@@ -90,13 +96,17 @@ func shoot_bullet():
 	new_bullet.shooter = self
 	get_tree().current_scene.add_child(new_bullet)
 	new_bullet.global_transform = %Marker3D.global_transform
-	
+	Sfx.play_flat(self, SOUND_SHOOT)
+
 	%Timer.start()
 
 func _on_health_changed(current_hp: float, max_hp: float) -> void:
 	if health_bar:
 		health_bar.max_value = max_hp
 		health_bar.value = current_hp
+
+func _on_damaged(_amount: float) -> void:
+	Sfx.play_flat(self, SOUND_HURT)
 
 func _on_died() -> void:
 	Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)

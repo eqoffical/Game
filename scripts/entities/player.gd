@@ -13,7 +13,6 @@ const GRAVITY := 10.0
 
 const SOUND_HURT := preload("res://assets/freedoom-0.13.0/sounds/DSSKLDTH.wav")
 const SOUND_SHOOT := preload("res://assets/freedoom-0.13.0/sounds/DSPISTOL.wav")
-const SOUND_JUMP := preload("res://assets/freedoom-0.13.0/sounds/DSTINK.wav")
 
 @onready var health_component: HealthComponent = $HealthComponent
 @onready var health_bar: TextureProgressBar = %HealthBar
@@ -49,7 +48,6 @@ func _physics_process(delta: float) -> void:
 		_accelerate(wishdir, wishspeed, GROUND_ACCEL, delta)
 		if Input.is_action_just_pressed("jump"):
 			velocity.y = JUMP_VELOCITY
-			Sfx.play_flat(self, SOUND_JUMP)
 	else:
 		_air_accelerate(wishdir, wishspeed, AIR_ACCEL, delta)
 	

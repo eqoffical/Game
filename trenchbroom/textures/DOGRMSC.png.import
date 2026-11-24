@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4tfhjtr6ft50"
-path="res://.godot/imported/DOGRMSC.png-e85cf01a94a5f8e8d171c73ded4cc6c4.ctex"
+path="res://.godot/imported/DOGRMSC.png-7b95afed527aeb43c2f79dda25edd528.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOGRMSC.png"
-dest_files=["res://.godot/imported/DOGRMSC.png-e85cf01a94a5f8e8d171c73ded4cc6c4.ctex"]
+source_file="res://trenchbroom/textures/DOGRMSC.png"
+dest_files=["res://.godot/imported/DOGRMSC.png-7b95afed527aeb43c2f79dda25edd528.ctex"]
 
 [params]
 

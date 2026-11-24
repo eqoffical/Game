@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bba2uwrbawrf7"
-path="res://.godot/imported/PAINF5.png-7f6436bad1277aa5d2ee63f5ceccface.ctex"
+path="res://.godot/imported/PAINF5.png-b6046fb1b7d130e1a008f8f1a130e94f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PAINF5.png"
-dest_files=["res://.godot/imported/PAINF5.png-7f6436bad1277aa5d2ee63f5ceccface.ctex"]
+source_file="res://trenchbroom/textures/PAINF5.png"
+dest_files=["res://.godot/imported/PAINF5.png-b6046fb1b7d130e1a008f8f1a130e94f.ctex"]
 
 [params]
 

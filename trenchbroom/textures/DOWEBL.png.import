@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm1lybructrxe"
-path="res://.godot/imported/DOWEBL.png-b3573955ecb7a146d9194aafb564b0b8.ctex"
+path="res://.godot/imported/DOWEBL.png-98ae6fae0cb22cc72228c88fdd251ca2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOWEBL.png"
-dest_files=["res://.godot/imported/DOWEBL.png-b3573955ecb7a146d9194aafb564b0b8.ctex"]
+source_file="res://trenchbroom/textures/DOWEBL.png"
+dest_files=["res://.godot/imported/DOWEBL.png-98ae6fae0cb22cc72228c88fdd251ca2.ctex"]
 
 [params]
 

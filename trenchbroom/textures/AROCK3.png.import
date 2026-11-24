@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf5lnofr7org6"
-path="res://.godot/imported/AROCK3.png-83bb7c49198215cf7a6aae7fe0b02abc.ctex"
+path="res://.godot/imported/AROCK3.png-fb3f1e015b2b0548bafee98981ae072b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/AROCK3.png"
-dest_files=["res://.godot/imported/AROCK3.png-83bb7c49198215cf7a6aae7fe0b02abc.ctex"]
+source_file="res://trenchbroom/textures/AROCK3.png"
+dest_files=["res://.godot/imported/AROCK3.png-fb3f1e015b2b0548bafee98981ae072b.ctex"]
 
 [params]
 

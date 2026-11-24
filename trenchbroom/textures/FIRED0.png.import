@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2am46blewxuo"
-path="res://.godot/imported/FIRED0.png-c0ce98bf0a93bacd9a92e18738145586.ctex"
+path="res://.godot/imported/FIRED0.png-6faf18b8c647afd9d3747e1e985d8885.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/FIRED0.png"
-dest_files=["res://.godot/imported/FIRED0.png-c0ce98bf0a93bacd9a92e18738145586.ctex"]
+source_file="res://trenchbroom/textures/FIRED0.png"
+dest_files=["res://.godot/imported/FIRED0.png-6faf18b8c647afd9d3747e1e985d8885.ctex"]
 
 [params]
 

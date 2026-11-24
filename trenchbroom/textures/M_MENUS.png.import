@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwnonorxflhww"
-path="res://.godot/imported/M_MENUS.png-2c2501e1374faad88d6fdb7fb4da985e.ctex"
+path="res://.godot/imported/M_MENUS.png-39b69ee1a9e208ff371c611568eeb379.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_MENUS.png"
-dest_files=["res://.godot/imported/M_MENUS.png-2c2501e1374faad88d6fdb7fb4da985e.ctex"]
+source_file="res://trenchbroom/textures/M_MENUS.png"
+dest_files=["res://.godot/imported/M_MENUS.png-39b69ee1a9e208ff371c611568eeb379.ctex"]
 
 [params]
 

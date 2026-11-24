@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bo25uxnyumk28"
-path="res://.godot/imported/CLIPA0.png-2dcf231100fe8b4a6a020a74941674fe.ctex"
+path="res://.godot/imported/CLIPA0.png-7556f4cdd5f1e5ad359b93c30dbd735e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/CLIPA0.png"
-dest_files=["res://.godot/imported/CLIPA0.png-2dcf231100fe8b4a6a020a74941674fe.ctex"]
+source_file="res://trenchbroom/textures/CLIPA0.png"
+dest_files=["res://.godot/imported/CLIPA0.png-7556f4cdd5f1e5ad359b93c30dbd735e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3k4dekmiudn6"
-path="res://.godot/imported/WARNA0.png-519a0c59717ed8d548a56f1dea36ba46.ctex"
+path="res://.godot/imported/WARNA0.png-494c5a7feac1e0c127b39eb835367874.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WARNA0.png"
-dest_files=["res://.godot/imported/WARNA0.png-519a0c59717ed8d548a56f1dea36ba46.ctex"]
+source_file="res://trenchbroom/textures/WARNA0.png"
+dest_files=["res://.godot/imported/WARNA0.png-494c5a7feac1e0c127b39eb835367874.ctex"]
 
 [params]
 

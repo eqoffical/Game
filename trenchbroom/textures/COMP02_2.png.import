@@ -3,19 +3,20 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://e8nx3uo16tpo"
-path="res://.godot/imported/COMP02_2.png-5d669f5d52c653fa0000dd728d50d37c.ctex"
+path.s3tc="res://.godot/imported/COMP02_2.png-3d21a2d10414800627f137b8a77e80f0.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/COMP02_2.png"
-dest_files=["res://.godot/imported/COMP02_2.png-5d669f5d52c653fa0000dd728d50d37c.ctex"]
+source_file="res://trenchbroom/textures/COMP02_2.png"
+dest_files=["res://.godot/imported/COMP02_2.png-3d21a2d10414800627f137b8a77e80f0.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -23,7 +24,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=false
+mipmaps/generate=true
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
@@ -37,4 +38,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0

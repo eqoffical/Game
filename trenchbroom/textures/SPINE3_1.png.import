@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqvc51tsdm5bo"
-path="res://.godot/imported/SPINE3_1.png-a4972b85f5e66fb5b7d3f53294e6b013.ctex"
+path="res://.godot/imported/SPINE3_1.png-16fd9f7e740cbd92d8b308b8551375e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SPINE3_1.png"
-dest_files=["res://.godot/imported/SPINE3_1.png-a4972b85f5e66fb5b7d3f53294e6b013.ctex"]
+source_file="res://trenchbroom/textures/SPINE3_1.png"
+dest_files=["res://.godot/imported/SPINE3_1.png-16fd9f7e740cbd92d8b308b8551375e2.ctex"]
 
 [params]
 

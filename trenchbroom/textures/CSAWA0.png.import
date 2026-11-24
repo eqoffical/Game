@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfj4v0f0n183b"
-path="res://.godot/imported/CSAWA0.png-4c16e3b5fe6e9e868c30b1d84398449f.ctex"
+path="res://.godot/imported/CSAWA0.png-42b0755c3681d23411227b3a2d402f6f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/CSAWA0.png"
-dest_files=["res://.godot/imported/CSAWA0.png-4c16e3b5fe6e9e868c30b1d84398449f.ctex"]
+source_file="res://trenchbroom/textures/CSAWA0.png"
+dest_files=["res://.godot/imported/CSAWA0.png-42b0755c3681d23411227b3a2d402f6f.ctex"]
 
 [params]
 

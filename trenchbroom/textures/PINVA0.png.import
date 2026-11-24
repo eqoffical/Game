@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c56as1uoi00b8"
-path="res://.godot/imported/PINVA0.png-44bc53d61009fcf41d784706e408e5a4.ctex"
+path="res://.godot/imported/PINVA0.png-fca09ba7f103e86e360a14466fec5ee7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PINVA0.png"
-dest_files=["res://.godot/imported/PINVA0.png-44bc53d61009fcf41d784706e408e5a4.ctex"]
+source_file="res://trenchbroom/textures/PINVA0.png"
+dest_files=["res://.godot/imported/PINVA0.png-fca09ba7f103e86e360a14466fec5ee7.ctex"]
 
 [params]
 

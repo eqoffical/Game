@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cn5i7ye3tukcv"
-path="res://.godot/imported/DOBWIRE2.png-1f73401de0d431fb49b96fed4813ffc4.ctex"
+path="res://.godot/imported/DOBWIRE2.png-189f007c8d8611c2dc506e7ffe27e54f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOBWIRE2.png"
-dest_files=["res://.godot/imported/DOBWIRE2.png-1f73401de0d431fb49b96fed4813ffc4.ctex"]
+source_file="res://trenchbroom/textures/DOBWIRE2.png"
+dest_files=["res://.godot/imported/DOBWIRE2.png-189f007c8d8611c2dc506e7ffe27e54f.ctex"]
 
 [params]
 

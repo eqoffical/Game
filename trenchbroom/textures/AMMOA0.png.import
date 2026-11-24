@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bunfdbw5hrgdc"
-path="res://.godot/imported/AMMOA0.png-f7f6391b9a69c3b3839cd01a7efbbebf.ctex"
+path="res://.godot/imported/AMMOA0.png-2b309bfa2c0b503606e58562dc7b90fa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/AMMOA0.png"
-dest_files=["res://.godot/imported/AMMOA0.png-f7f6391b9a69c3b3839cd01a7efbbebf.ctex"]
+source_file="res://trenchbroom/textures/AMMOA0.png"
+dest_files=["res://.godot/imported/AMMOA0.png-2b309bfa2c0b503606e58562dc7b90fa.ctex"]
 
 [params]
 

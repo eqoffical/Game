@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gica84cn2tf4"
-path="res://.godot/imported/REDOPEN.png-d9904974694f180341148dbd6982b1dc.ctex"
+path="res://.godot/imported/REDOPEN.png-32d8fa22f4647555a8328df87ab27451.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/REDOPEN.png"
-dest_files=["res://.godot/imported/REDOPEN.png-d9904974694f180341148dbd6982b1dc.ctex"]
+source_file="res://trenchbroom/textures/REDOPEN.png"
+dest_files=["res://.godot/imported/REDOPEN.png-32d8fa22f4647555a8328df87ab27451.ctex"]
 
 [params]
 

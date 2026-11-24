@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://baoo2e35bjwgp"
-path="res://.godot/imported/GRASS2.png-7da2532ded28bffe8bccd968aee479df.ctex"
+path="res://.godot/imported/GRASS2.png-5747c22911b35cecac18048b4837763e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/GRASS2.png"
-dest_files=["res://.godot/imported/GRASS2.png-7da2532ded28bffe8bccd968aee479df.ctex"]
+source_file="res://trenchbroom/textures/GRASS2.png"
+dest_files=["res://.godot/imported/GRASS2.png-5747c22911b35cecac18048b4837763e.ctex"]
 
 [params]
 

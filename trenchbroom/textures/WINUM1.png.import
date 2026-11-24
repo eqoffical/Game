@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qyeo2sehwud8"
-path="res://.godot/imported/WINUM1.png-6896c87f1d07a7f09edfca53b11651ea.ctex"
+path="res://.godot/imported/WINUM1.png-301177c129b83ada6310fbb8646a6ac6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WINUM1.png"
-dest_files=["res://.godot/imported/WINUM1.png-6896c87f1d07a7f09edfca53b11651ea.ctex"]
+source_file="res://trenchbroom/textures/WINUM1.png"
+dest_files=["res://.godot/imported/WINUM1.png-301177c129b83ada6310fbb8646a6ac6.ctex"]
 
 [params]
 

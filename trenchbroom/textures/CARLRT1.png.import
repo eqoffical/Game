@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bamysmavrdsf4"
-path="res://.godot/imported/CARLRT1.png-27f8c10084fabad175091c9d438c4faf.ctex"
+path="res://.godot/imported/CARLRT1.png-c9399883245a7231f9566d98902b7ed2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/CARLRT1.png"
-dest_files=["res://.godot/imported/CARLRT1.png-27f8c10084fabad175091c9d438c4faf.ctex"]
+source_file="res://trenchbroom/textures/CARLRT1.png"
+dest_files=["res://.godot/imported/CARLRT1.png-c9399883245a7231f9566d98902b7ed2.ctex"]
 
 [params]
 

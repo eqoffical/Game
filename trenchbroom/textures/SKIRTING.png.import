@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brdg2vabdkvsq"
-path="res://.godot/imported/SKIRTING.png-ebdde8aacc6bef356aca88a7f220c73b.ctex"
+path="res://.godot/imported/SKIRTING.png-9a2152d96e6113306c13b537d5ed5b1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SKIRTING.png"
-dest_files=["res://.godot/imported/SKIRTING.png-ebdde8aacc6bef356aca88a7f220c73b.ctex"]
+source_file="res://trenchbroom/textures/SKIRTING.png"
+dest_files=["res://.godot/imported/SKIRTING.png-9a2152d96e6113306c13b537d5ed5b1d.ctex"]
 
 [params]
 

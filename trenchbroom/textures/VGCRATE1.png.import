@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhnis042gutby"
-path="res://.godot/imported/VGCRATE1.png-c46e066c07573776a3be76464ecb0030.ctex"
+path="res://.godot/imported/VGCRATE1.png-31216d8621e295315cb0e143c8dbfbbd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/VGCRATE1.png"
-dest_files=["res://.godot/imported/VGCRATE1.png-c46e066c07573776a3be76464ecb0030.ctex"]
+source_file="res://trenchbroom/textures/VGCRATE1.png"
+dest_files=["res://.godot/imported/VGCRATE1.png-31216d8621e295315cb0e143c8dbfbbd.ctex"]
 
 [params]
 

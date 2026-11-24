@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2qvlema0n805"
-path="res://.godot/imported/TYWFALL1.png-1ef1ea22831a001d614047da79ffb149.ctex"
+path="res://.godot/imported/TYWFALL1.png-a69eba76904ed01c4b212279f355893f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/TYWFALL1.png"
-dest_files=["res://.godot/imported/TYWFALL1.png-1ef1ea22831a001d614047da79ffb149.ctex"]
+source_file="res://trenchbroom/textures/TYWFALL1.png"
+dest_files=["res://.godot/imported/TYWFALL1.png-a69eba76904ed01c4b212279f355893f.ctex"]
 
 [params]
 

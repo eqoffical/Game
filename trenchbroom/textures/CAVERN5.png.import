@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1v7qtnmfodj6"
-path="res://.godot/imported/CAVERN5.png-a0f5aabe3119091919a9cc6839fa4475.ctex"
+path="res://.godot/imported/CAVERN5.png-5f9471b02a5bb3314dacd90cea903881.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/CAVERN5.png"
-dest_files=["res://.godot/imported/CAVERN5.png-a0f5aabe3119091919a9cc6839fa4475.ctex"]
+source_file="res://trenchbroom/textures/CAVERN5.png"
+dest_files=["res://.godot/imported/CAVERN5.png-5f9471b02a5bb3314dacd90cea903881.ctex"]
 
 [params]
 

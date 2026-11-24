@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjgp5tttjepjw"
-path="res://.godot/imported/PS20A0.png-e00b1f0bbc9cb5e539826da6bc37d4d1.ctex"
+path="res://.godot/imported/PS20A0.png-f88fde69fdbe4d88940466a14fb30ac5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PS20A0.png"
-dest_files=["res://.godot/imported/PS20A0.png-e00b1f0bbc9cb5e539826da6bc37d4d1.ctex"]
+source_file="res://trenchbroom/textures/PS20A0.png"
+dest_files=["res://.godot/imported/PS20A0.png-f88fde69fdbe4d88940466a14fb30ac5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg8ab2hlc80dx"
-path="res://.godot/imported/DOENITE.png-08ee6b121efd379bb6d832fbe8ebb7be.ctex"
+path="res://.godot/imported/DOENITE.png-7fd87ea06f97a922cb2901db56e07a31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOENITE.png"
-dest_files=["res://.godot/imported/DOENITE.png-08ee6b121efd379bb6d832fbe8ebb7be.ctex"]
+source_file="res://trenchbroom/textures/DOENITE.png"
+dest_files=["res://.godot/imported/DOENITE.png-7fd87ea06f97a922cb2901db56e07a31.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buch125hi258a"
-path="res://.godot/imported/DOGRNMEN.png-d7c278f54275616f84f615f3bd8ae2d5.ctex"
+path="res://.godot/imported/DOGRNMEN.png-e4d34f1beca70134d3750b0d1e4e4558.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOGRNMEN.png"
-dest_files=["res://.godot/imported/DOGRNMEN.png-d7c278f54275616f84f615f3bd8ae2d5.ctex"]
+source_file="res://trenchbroom/textures/DOGRNMEN.png"
+dest_files=["res://.godot/imported/DOGRNMEN.png-e4d34f1beca70134d3750b0d1e4e4558.ctex"]
 
 [params]
 

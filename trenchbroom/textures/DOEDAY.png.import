@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuf8pap37ot6q"
-path="res://.godot/imported/DOEDAY.png-7a976b39886986bafa9f4f95d5ddf610.ctex"
+path="res://.godot/imported/DOEDAY.png-11195211c2eecf8fb4cc91a8a6aa507c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOEDAY.png"
-dest_files=["res://.godot/imported/DOEDAY.png-7a976b39886986bafa9f4f95d5ddf610.ctex"]
+source_file="res://trenchbroom/textures/DOEDAY.png"
+dest_files=["res://.godot/imported/DOEDAY.png-11195211c2eecf8fb4cc91a8a6aa507c.ctex"]
 
 [params]
 

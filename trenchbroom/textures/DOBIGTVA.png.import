@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cn4f6flrp6667"
-path="res://.godot/imported/DOBIGTVA.png-f0d9bd774016638ae1f46a21d266797e.ctex"
+path="res://.godot/imported/DOBIGTVA.png-cdc52859e82f4c5158fb9a37b1b2cb8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOBIGTVA.png"
-dest_files=["res://.godot/imported/DOBIGTVA.png-f0d9bd774016638ae1f46a21d266797e.ctex"]
+source_file="res://trenchbroom/textures/DOBIGTVA.png"
+dest_files=["res://.godot/imported/DOBIGTVA.png-cdc52859e82f4c5158fb9a37b1b2cb8f.ctex"]
 
 [params]
 

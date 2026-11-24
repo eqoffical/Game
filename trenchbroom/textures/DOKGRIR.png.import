@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b00i8rgcskmhs"
-path="res://.godot/imported/DOKGRIR.png-27090c8d29f0d396a8e7579b72987d3b.ctex"
+path="res://.godot/imported/DOKGRIR.png-a3ce3bd976303e45b17697aa7bbccb39.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOKGRIR.png"
-dest_files=["res://.godot/imported/DOKGRIR.png-27090c8d29f0d396a8e7579b72987d3b.ctex"]
+source_file="res://trenchbroom/textures/DOKGRIR.png"
+dest_files=["res://.godot/imported/DOKGRIR.png-a3ce3bd976303e45b17697aa7bbccb39.ctex"]
 
 [params]
 

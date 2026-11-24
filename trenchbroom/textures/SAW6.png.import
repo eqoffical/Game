@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsc7l0m6kdeeq"
-path="res://.godot/imported/SAW6.png-7b0204e8efb3c9d1efe183471db24b37.ctex"
+path="res://.godot/imported/SAW6.png-f52dee8d82cdc8a7c57f303c27a1d143.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SAW6.png"
-dest_files=["res://.godot/imported/SAW6.png-7b0204e8efb3c9d1efe183471db24b37.ctex"]
+source_file="res://trenchbroom/textures/SAW6.png"
+dest_files=["res://.godot/imported/SAW6.png-f52dee8d82cdc8a7c57f303c27a1d143.ctex"]
 
 [params]
 

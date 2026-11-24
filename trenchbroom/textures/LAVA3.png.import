@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djvreqwegcsqp"
-path="res://.godot/imported/LAVA3.png-d0b2996fc0d8bd6640a0ceec77d9341b.ctex"
+path="res://.godot/imported/LAVA3.png-0475cdc19d803054420efada3af11911.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/LAVA3.png"
-dest_files=["res://.godot/imported/LAVA3.png-d0b2996fc0d8bd6640a0ceec77d9341b.ctex"]
+source_file="res://trenchbroom/textures/LAVA3.png"
+dest_files=["res://.godot/imported/LAVA3.png-0475cdc19d803054420efada3af11911.ctex"]
 
 [params]
 

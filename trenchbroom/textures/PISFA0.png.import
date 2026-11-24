@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpxg15n5yghlu"
-path="res://.godot/imported/PISFA0.png-761f6ba9ade3c4dc67129991852d522b.ctex"
+path="res://.godot/imported/PISFA0.png-cc68fa973dcd5b07f3399f45c857bcc7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PISFA0.png"
-dest_files=["res://.godot/imported/PISFA0.png-761f6ba9ade3c4dc67129991852d522b.ctex"]
+source_file="res://trenchbroom/textures/PISFA0.png"
+dest_files=["res://.godot/imported/PISFA0.png-cc68fa973dcd5b07f3399f45c857bcc7.ctex"]
 
 [params]
 

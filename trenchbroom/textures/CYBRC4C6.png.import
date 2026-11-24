@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxdjen4oaawmq"
-path="res://.godot/imported/CYBRC4C6.png-cd0164f7d8772caa30e183693a9f8dd1.ctex"
+path="res://.godot/imported/CYBRC4C6.png-4737e2cf3645767202dec1730f383b15.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/CYBRC4C6.png"
-dest_files=["res://.godot/imported/CYBRC4C6.png-cd0164f7d8772caa30e183693a9f8dd1.ctex"]
+source_file="res://trenchbroom/textures/CYBRC4C6.png"
+dest_files=["res://.godot/imported/CYBRC4C6.png-4737e2cf3645767202dec1730f383b15.ctex"]
 
 [params]
 

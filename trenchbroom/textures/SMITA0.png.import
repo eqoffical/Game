@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqsdpe1p6sbgm"
-path="res://.godot/imported/SMITA0.png-6db64f427a7abba96673441d310103b6.ctex"
+path="res://.godot/imported/SMITA0.png-c7ba1be27c524770c9a88ee2a94c4f8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SMITA0.png"
-dest_files=["res://.godot/imported/SMITA0.png-6db64f427a7abba96673441d310103b6.ctex"]
+source_file="res://trenchbroom/textures/SMITA0.png"
+dest_files=["res://.godot/imported/SMITA0.png-c7ba1be27c524770c9a88ee2a94c4f8f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://canufqitd66sd"
-path="res://.godot/imported/DOGRID.png-1a7ac12620e441eb42055118cbcbc704.ctex"
+path="res://.godot/imported/DOGRID.png-984a72e948f4e19824d7b6e3a4df169e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOGRID.png"
-dest_files=["res://.godot/imported/DOGRID.png-1a7ac12620e441eb42055118cbcbc704.ctex"]
+source_file="res://trenchbroom/textures/DOGRID.png"
+dest_files=["res://.godot/imported/DOGRID.png-984a72e948f4e19824d7b6e3a4df169e.ctex"]
 
 [params]
 

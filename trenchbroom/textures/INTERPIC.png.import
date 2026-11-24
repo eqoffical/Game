@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dewyl2lcgvpls"
-path="res://.godot/imported/INTERPIC.png-9fac738ade616e9506d95ce59f702d6e.ctex"
+path="res://.godot/imported/INTERPIC.png-b8a7c3705c07c37121691cfc7ab8c465.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/INTERPIC.png"
-dest_files=["res://.godot/imported/INTERPIC.png-9fac738ade616e9506d95ce59f702d6e.ctex"]
+source_file="res://trenchbroom/textures/INTERPIC.png"
+dest_files=["res://.godot/imported/INTERPIC.png-b8a7c3705c07c37121691cfc7ab8c465.ctex"]
 
 [params]
 

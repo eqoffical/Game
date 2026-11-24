@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmcjpm8ut38y2"
-path="res://.godot/imported/CYAN.png-d0d6f57fcc0ea26676c25de67c33fae1.ctex"
+path="res://.godot/imported/CYAN.png-95774d56858fa8655d87472d77f48849.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/CYAN.png"
-dest_files=["res://.godot/imported/CYAN.png-d0d6f57fcc0ea26676c25de67c33fae1.ctex"]
+source_file="res://trenchbroom/textures/CYAN.png"
+dest_files=["res://.godot/imported/CYAN.png-95774d56858fa8655d87472d77f48849.ctex"]
 
 [params]
 

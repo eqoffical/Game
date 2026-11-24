@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brp7f7j4l7rb5"
-path="res://.godot/imported/SFALL4.png-68d67c0f061278efc37defb3241bc39e.ctex"
+path="res://.godot/imported/SFALL4.png-1a5c1b4abff71fd932380bcafbd46dc8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SFALL4.png"
-dest_files=["res://.godot/imported/SFALL4.png-68d67c0f061278efc37defb3241bc39e.ctex"]
+source_file="res://trenchbroom/textures/SFALL4.png"
+dest_files=["res://.godot/imported/SFALL4.png-1a5c1b4abff71fd932380bcafbd46dc8.ctex"]
 
 [params]
 

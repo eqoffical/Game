@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0yl2jax02044"
-path="res://.godot/imported/DOSPI4B.png-602b9076963ab43daa575e4ad5bbd7b6.ctex"
+path="res://.godot/imported/DOSPI4B.png-f4232a348da0a81d6cffd5eadab4f0a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOSPI4B.png"
-dest_files=["res://.godot/imported/DOSPI4B.png-602b9076963ab43daa575e4ad5bbd7b6.ctex"]
+source_file="res://trenchbroom/textures/DOSPI4B.png"
+dest_files=["res://.godot/imported/DOSPI4B.png-f4232a348da0a81d6cffd5eadab4f0a7.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1m075u5poy0p"
-path="res://.godot/imported/FIREC0.png-bdeae37668d755b6947cac43fa3421cb.ctex"
+path="res://.godot/imported/FIREC0.png-cb16d26624f4829ebb48b6e08bb01a40.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/FIREC0.png"
-dest_files=["res://.godot/imported/FIREC0.png-bdeae37668d755b6947cac43fa3421cb.ctex"]
+source_file="res://trenchbroom/textures/FIREC0.png"
+dest_files=["res://.godot/imported/FIREC0.png-cb16d26624f4829ebb48b6e08bb01a40.ctex"]
 
 [params]
 

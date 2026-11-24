@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6hf31runw8ho"
-path="res://.godot/imported/WIKILRS.png-4a90850c99a907e085f58a4226cfa70d.ctex"
+path="res://.godot/imported/WIKILRS.png-8fcd6070010e6441786f80f386f77309.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WIKILRS.png"
-dest_files=["res://.godot/imported/WIKILRS.png-4a90850c99a907e085f58a4226cfa70d.ctex"]
+source_file="res://trenchbroom/textures/WIKILRS.png"
+dest_files=["res://.godot/imported/WIKILRS.png-8fcd6070010e6441786f80f386f77309.ctex"]
 
 [params]
 

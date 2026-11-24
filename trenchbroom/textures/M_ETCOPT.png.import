@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://i38g1est38ur"
-path="res://.godot/imported/M_ETCOPT.png-ea1255770b6e1ac832c8170fd4bff753.ctex"
+path="res://.godot/imported/M_ETCOPT.png-7b82dc1a192898c092e9be8ea11bc8bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_ETCOPT.png"
-dest_files=["res://.godot/imported/M_ETCOPT.png-ea1255770b6e1ac832c8170fd4bff753.ctex"]
+source_file="res://trenchbroom/textures/M_ETCOPT.png"
+dest_files=["res://.godot/imported/M_ETCOPT.png-7b82dc1a192898c092e9be8ea11bc8bf.ctex"]
 
 [params]
 

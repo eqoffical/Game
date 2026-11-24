@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0wbsqljcme82"
-path="res://.godot/imported/CWILV16.png-2758841ddb34f2c8e9d7c1d6ea874b4d.ctex"
+path="res://.godot/imported/CWILV16.png-5427319629a62d8133de7b8dca6304cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/CWILV16.png"
-dest_files=["res://.godot/imported/CWILV16.png-2758841ddb34f2c8e9d7c1d6ea874b4d.ctex"]
+source_file="res://trenchbroom/textures/CWILV16.png"
+dest_files=["res://.godot/imported/CWILV16.png-5427319629a62d8133de7b8dca6304cc.ctex"]
 
 [params]
 

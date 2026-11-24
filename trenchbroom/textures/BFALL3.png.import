@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmnxo4ep00mvq"
-path="res://.godot/imported/BFALL3.png-ee517e918d92c67fc09815c3093ba63e.ctex"
+path="res://.godot/imported/BFALL3.png-3153e140371c05058bd993270a7e89ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/BFALL3.png"
-dest_files=["res://.godot/imported/BFALL3.png-ee517e918d92c67fc09815c3093ba63e.ctex"]
+source_file="res://trenchbroom/textures/BFALL3.png"
+dest_files=["res://.godot/imported/BFALL3.png-3153e140371c05058bd993270a7e89ef.ctex"]
 
 [params]
 

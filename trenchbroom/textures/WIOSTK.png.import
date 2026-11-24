@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bargpefi6k1fp"
-path="res://.godot/imported/WIOSTK.png-c54ab0f37b8bdb1701d43030226cf235.ctex"
+path="res://.godot/imported/WIOSTK.png-fd1b6f5af16daf3090d427fdd8e84227.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WIOSTK.png"
-dest_files=["res://.godot/imported/WIOSTK.png-c54ab0f37b8bdb1701d43030226cf235.ctex"]
+source_file="res://trenchbroom/textures/WIOSTK.png"
+dest_files=["res://.godot/imported/WIOSTK.png-fd1b6f5af16daf3090d427fdd8e84227.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcekn8d1veh0d"
-path="res://.godot/imported/SNAK6_1.png-d06e67fdd9d014386349f0d52137f764.ctex"
+path="res://.godot/imported/SNAK6_1.png-fa37a9e5da7ea3dd617794435e65d35f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SNAK6_1.png"
-dest_files=["res://.godot/imported/SNAK6_1.png-d06e67fdd9d014386349f0d52137f764.ctex"]
+source_file="res://trenchbroom/textures/SNAK6_1.png"
+dest_files=["res://.godot/imported/SNAK6_1.png-fa37a9e5da7ea3dd617794435e65d35f.ctex"]
 
 [params]
 

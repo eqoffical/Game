@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca06ylninig71"
-path="res://.godot/imported/BEXPD0.png-dcdcc01c0eb7c518cfe9b4ef91853bd0.ctex"
+path="res://.godot/imported/BEXPD0.png-ccfe134a493ecc7e4b1bbe98a310207a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/BEXPD0.png"
-dest_files=["res://.godot/imported/BEXPD0.png-dcdcc01c0eb7c518cfe9b4ef91853bd0.ctex"]
+source_file="res://trenchbroom/textures/BEXPD0.png"
+dest_files=["res://.godot/imported/BEXPD0.png-ccfe134a493ecc7e4b1bbe98a310207a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gj5a1amo6k4s"
-path="res://.godot/imported/VILEB4E6.png-e0fa9d20b40d75099c4c05bf1a580932.ctex"
+path="res://.godot/imported/VILEB4E6.png-072694e4fe98fc06d319369d0f002b4e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/VILEB4E6.png"
-dest_files=["res://.godot/imported/VILEB4E6.png-e0fa9d20b40d75099c4c05bf1a580932.ctex"]
+source_file="res://trenchbroom/textures/VILEB4E6.png"
+dest_files=["res://.godot/imported/VILEB4E6.png-072694e4fe98fc06d319369d0f002b4e.ctex"]
 
 [params]
 

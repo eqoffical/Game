@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ba7vfnq8ukkni"
-path="res://.godot/imported/DOPUNK4.png-2bbcb3c1478fabcb3a4ef0c1040dca31.ctex"
+path="res://.godot/imported/DOPUNK4.png-96edcdffee4e3072190e29f1bd03d83f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOPUNK4.png"
-dest_files=["res://.godot/imported/DOPUNK4.png-2bbcb3c1478fabcb3a4ef0c1040dca31.ctex"]
+source_file="res://trenchbroom/textures/DOPUNK4.png"
+dest_files=["res://.godot/imported/DOPUNK4.png-96edcdffee4e3072190e29f1bd03d83f.ctex"]
 
 [params]
 

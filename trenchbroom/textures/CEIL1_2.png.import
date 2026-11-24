@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt7wmi7cm7xck"
-path="res://.godot/imported/CEIL1_2.png-89c523ddc028c6f92c0858b2f5c18f44.ctex"
+path="res://.godot/imported/CEIL1_2.png-808bea06ec1522a3720bc50a04f6c794.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/CEIL1_2.png"
-dest_files=["res://.godot/imported/CEIL1_2.png-89c523ddc028c6f92c0858b2f5c18f44.ctex"]
+source_file="res://trenchbroom/textures/CEIL1_2.png"
+dest_files=["res://.godot/imported/CEIL1_2.png-808bea06ec1522a3720bc50a04f6c794.ctex"]
 
 [params]
 

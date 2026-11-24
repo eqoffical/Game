@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://caug2fundhy8s"
-path="res://.godot/imported/GRNOPEN.png-09e32dcf43a44874c654f220ff3d26cf.ctex"
+path="res://.godot/imported/GRNOPEN.png-eb79703c81e4ea00a6396241d1e4e18c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/GRNOPEN.png"
-dest_files=["res://.godot/imported/GRNOPEN.png-09e32dcf43a44874c654f220ff3d26cf.ctex"]
+source_file="res://trenchbroom/textures/GRNOPEN.png"
+dest_files=["res://.godot/imported/GRNOPEN.png-eb79703c81e4ea00a6396241d1e4e18c.ctex"]
 
 [params]
 

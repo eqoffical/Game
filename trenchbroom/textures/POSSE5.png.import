@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq2ab2rlcksj3"
-path="res://.godot/imported/POSSE5.png-186dc683f6c6464784fade659dfff4c6.ctex"
+path="res://.godot/imported/POSSE5.png-c3623306c547f77458a04c12dbf511a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/POSSE5.png"
-dest_files=["res://.godot/imported/POSSE5.png-186dc683f6c6464784fade659dfff4c6.ctex"]
+source_file="res://trenchbroom/textures/POSSE5.png"
+dest_files=["res://.godot/imported/POSSE5.png-c3623306c547f77458a04c12dbf511a9.ctex"]
 
 [params]
 

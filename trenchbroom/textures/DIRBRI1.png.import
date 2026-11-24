@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://carpymplsb5j1"
-path="res://.godot/imported/DIRBRI1.png-df71c47b1096371676875ed316dd6141.ctex"
+path="res://.godot/imported/DIRBRI1.png-22d3bd7e50830b8d707f89cf8a9fc074.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DIRBRI1.png"
-dest_files=["res://.godot/imported/DIRBRI1.png-df71c47b1096371676875ed316dd6141.ctex"]
+source_file="res://trenchbroom/textures/DIRBRI1.png"
+dest_files=["res://.godot/imported/DIRBRI1.png-22d3bd7e50830b8d707f89cf8a9fc074.ctex"]
 
 [params]
 

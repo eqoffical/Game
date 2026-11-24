@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccwdxd5dpbg3b"
-path="res://.godot/imported/REDLITE2.png-18a99a44905213a7996b8ced8b57e583.ctex"
+path="res://.godot/imported/REDLITE2.png-7afa880fb86f1256caa978c049c005d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/REDLITE2.png"
-dest_files=["res://.godot/imported/REDLITE2.png-18a99a44905213a7996b8ced8b57e583.ctex"]
+source_file="res://trenchbroom/textures/REDLITE2.png"
+dest_files=["res://.godot/imported/REDLITE2.png-7afa880fb86f1256caa978c049c005d4.ctex"]
 
 [params]
 

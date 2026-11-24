@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh5yu4dut2e3j"
-path="res://.godot/imported/PAIND5.png-637ba09e355951605e45fe467edcbddc.ctex"
+path="res://.godot/imported/PAIND5.png-f4d0ed3b061f19a843ff9ca4db604717.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PAIND5.png"
-dest_files=["res://.godot/imported/PAIND5.png-637ba09e355951605e45fe467edcbddc.ctex"]
+source_file="res://trenchbroom/textures/PAIND5.png"
+dest_files=["res://.godot/imported/PAIND5.png-f4d0ed3b061f19a843ff9ca4db604717.ctex"]
 
 [params]
 

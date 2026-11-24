@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0kf7rikenh1r"
-path="res://.godot/imported/SWATER4.png-9ae173b2b435b671ea701bcfc83cf626.ctex"
+path="res://.godot/imported/SWATER4.png-3b7ff8323695fb94b3d2bd0ec1dfc4ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SWATER4.png"
-dest_files=["res://.godot/imported/SWATER4.png-9ae173b2b435b671ea701bcfc83cf626.ctex"]
+source_file="res://trenchbroom/textures/SWATER4.png"
+dest_files=["res://.godot/imported/SWATER4.png-3b7ff8323695fb94b3d2bd0ec1dfc4ee.ctex"]
 
 [params]
 

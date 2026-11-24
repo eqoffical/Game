@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ohj7xm7vh6lb"
-path="res://.godot/imported/WIMSTAR.png-61ae6398a09240a6f4c34717cf5c07c3.ctex"
+path="res://.godot/imported/WIMSTAR.png-5af45f0bf31fccd827cb4ab5f934f62c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WIMSTAR.png"
-dest_files=["res://.godot/imported/WIMSTAR.png-61ae6398a09240a6f4c34717cf5c07c3.ctex"]
+source_file="res://trenchbroom/textures/WIMSTAR.png"
+dest_files=["res://.godot/imported/WIMSTAR.png-5af45f0bf31fccd827cb4ab5f934f62c.ctex"]
 
 [params]
 

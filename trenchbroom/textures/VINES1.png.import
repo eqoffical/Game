@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cykg26260e202"
-path="res://.godot/imported/VINES1.png-5effe8277e8cd0d586d18d91dae6499e.ctex"
+path="res://.godot/imported/VINES1.png-c27563a5b20020e8a29851d2f4ce91e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/VINES1.png"
-dest_files=["res://.godot/imported/VINES1.png-5effe8277e8cd0d586d18d91dae6499e.ctex"]
+source_file="res://trenchbroom/textures/VINES1.png"
+dest_files=["res://.godot/imported/VINES1.png-c27563a5b20020e8a29851d2f4ce91e5.ctex"]
 
 [params]
 

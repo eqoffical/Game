@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c62eaww42nbxs"
-path="res://.godot/imported/PAINB1.png-ab4a56301e5a71460f25df335e66ef61.ctex"
+path="res://.godot/imported/PAINB1.png-7d5ecbf6228c462de835d89827d4e4d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PAINB1.png"
-dest_files=["res://.godot/imported/PAINB1.png-ab4a56301e5a71460f25df335e66ef61.ctex"]
+source_file="res://trenchbroom/textures/PAINB1.png"
+dest_files=["res://.godot/imported/PAINB1.png-7d5ecbf6228c462de835d89827d4e4d5.ctex"]
 
 [params]
 

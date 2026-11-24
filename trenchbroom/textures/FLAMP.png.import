@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5x12cvgv0fck"
-path="res://.godot/imported/FLAMP.png-cae7cb9358c930b7dd77f4b141bd3804.ctex"
+path="res://.godot/imported/FLAMP.png-2f3b7323194e56961630f5403563c521.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/FLAMP.png"
-dest_files=["res://.godot/imported/FLAMP.png-cae7cb9358c930b7dd77f4b141bd3804.ctex"]
+source_file="res://trenchbroom/textures/FLAMP.png"
+dest_files=["res://.godot/imported/FLAMP.png-2f3b7323194e56961630f5403563c521.ctex"]
 
 [params]
 

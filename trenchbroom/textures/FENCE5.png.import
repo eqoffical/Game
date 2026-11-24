@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2t23ttmpplae"
-path="res://.godot/imported/FENCE5.png-b94767a92e4ae4276ad48ea1b88a90a3.ctex"
+path="res://.godot/imported/FENCE5.png-052ba06b78676757eec587eb605430b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/FENCE5.png"
-dest_files=["res://.godot/imported/FENCE5.png-b94767a92e4ae4276ad48ea1b88a90a3.ctex"]
+source_file="res://trenchbroom/textures/FENCE5.png"
+dest_files=["res://.godot/imported/FENCE5.png-052ba06b78676757eec587eb605430b8.ctex"]
 
 [params]
 

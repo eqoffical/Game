@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7nnhvnin3kne"
-path="res://.godot/imported/DOGLPANL.png-abd70762077743265cf99b9c119b4b41.ctex"
+path="res://.godot/imported/DOGLPANL.png-a6dd6cae4038944d10694253402e1841.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOGLPANL.png"
-dest_files=["res://.godot/imported/DOGLPANL.png-abd70762077743265cf99b9c119b4b41.ctex"]
+source_file="res://trenchbroom/textures/DOGLPANL.png"
+dest_files=["res://.godot/imported/DOGLPANL.png-a6dd6cae4038944d10694253402e1841.ctex"]
 
 [params]
 

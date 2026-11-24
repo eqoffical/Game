@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq5dkfvpj75o8"
-path="res://.godot/imported/DOORTRAK.png-8c4c9ebf0537657335703554a65bd6dc.ctex"
+path="res://.godot/imported/DOORTRAK.png-70a1f2db45ff26e82da9044e715c10f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOORTRAK.png"
-dest_files=["res://.godot/imported/DOORTRAK.png-8c4c9ebf0537657335703554a65bd6dc.ctex"]
+source_file="res://trenchbroom/textures/DOORTRAK.png"
+dest_files=["res://.godot/imported/DOORTRAK.png-70a1f2db45ff26e82da9044e715c10f4.ctex"]
 
 [params]
 

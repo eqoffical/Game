@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw58smuhlwlky"
-path="res://.godot/imported/YELLITE2.png-5c7798ab82f2478cea8bb19a25788521.ctex"
+path="res://.godot/imported/YELLITE2.png-c5fc7fe7c4507cd68faae924979d5818.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/YELLITE2.png"
-dest_files=["res://.godot/imported/YELLITE2.png-5c7798ab82f2478cea8bb19a25788521.ctex"]
+source_file="res://trenchbroom/textures/YELLITE2.png"
+dest_files=["res://.godot/imported/YELLITE2.png-c5fc7fe7c4507cd68faae924979d5818.ctex"]
 
 [params]
 

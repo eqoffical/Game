@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfyg6xoluhgsm"
-path="res://.godot/imported/WIOSTF.png-db9acc153c12b0965027c97c1d0cb12e.ctex"
+path="res://.godot/imported/WIOSTF.png-52e6a4a8ada43aee7c0b82183d3e079c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WIOSTF.png"
-dest_files=["res://.godot/imported/WIOSTF.png-db9acc153c12b0965027c97c1d0cb12e.ctex"]
+source_file="res://trenchbroom/textures/WIOSTF.png"
+dest_files=["res://.godot/imported/WIOSTF.png-52e6a4a8ada43aee7c0b82183d3e079c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cy7xnetdgcqsn"
-path="res://.godot/imported/PREEL7.png-864279e8c5a5b6faa054fa708090fe5e.ctex"
+path="res://.godot/imported/PREEL7.png-fcc8e676ac3c0ef6e91abfc0ef821709.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PREEL7.png"
-dest_files=["res://.godot/imported/PREEL7.png-864279e8c5a5b6faa054fa708090fe5e.ctex"]
+source_file="res://trenchbroom/textures/PREEL7.png"
+dest_files=["res://.godot/imported/PREEL7.png-fcc8e676ac3c0ef6e91abfc0ef821709.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciemot8xs4ol1"
-path="res://.godot/imported/BUL64D.png-744a3f474c632f4f2690d797ecbd3e9d.ctex"
+path="res://.godot/imported/BUL64D.png-ed089d2d1bdc1f154be7cfb01ab34b56.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/BUL64D.png"
-dest_files=["res://.godot/imported/BUL64D.png-744a3f474c632f4f2690d797ecbd3e9d.ctex"]
+source_file="res://trenchbroom/textures/BUL64D.png"
+dest_files=["res://.godot/imported/BUL64D.png-ed089d2d1bdc1f154be7cfb01ab34b56.ctex"]
 
 [params]
 

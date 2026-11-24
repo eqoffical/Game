@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq8hiju0axek8"
-path="res://.godot/imported/DARKROCK.png-7d24f697ed23a0eb4cb848cdb31ee2ce.ctex"
+path="res://.godot/imported/DARKROCK.png-345957845df6b1e6a3551fb4d7deede9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DARKROCK.png"
-dest_files=["res://.godot/imported/DARKROCK.png-7d24f697ed23a0eb4cb848cdb31ee2ce.ctex"]
+source_file="res://trenchbroom/textures/DARKROCK.png"
+dest_files=["res://.godot/imported/DARKROCK.png-345957845df6b1e6a3551fb4d7deede9.ctex"]
 
 [params]
 

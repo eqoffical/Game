@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkldt58mjcx70"
-path="res://.godot/imported/M_DISOPT.png-1fd95a55927128ce5cc093ac6d744330.ctex"
+path="res://.godot/imported/M_DISOPT.png-d3e19391dfdd390e5539b2480ed650f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_DISOPT.png"
-dest_files=["res://.godot/imported/M_DISOPT.png-1fd95a55927128ce5cc093ac6d744330.ctex"]
+source_file="res://trenchbroom/textures/M_DISOPT.png"
+dest_files=["res://.godot/imported/M_DISOPT.png-d3e19391dfdd390e5539b2480ed650f7.ctex"]
 
 [params]
 

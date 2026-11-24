@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cetfgdq1p1bla"
-path="res://.godot/imported/SKELK6K4.png-7f7f7348e4abc11e031d136c2a8b74e7.ctex"
+path="res://.godot/imported/SKELK6K4.png-f177c9acbc2910ea6aecf20558720282.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SKELK6K4.png"
-dest_files=["res://.godot/imported/SKELK6K4.png-7f7f7348e4abc11e031d136c2a8b74e7.ctex"]
+source_file="res://trenchbroom/textures/SKELK6K4.png"
+dest_files=["res://.godot/imported/SKELK6K4.png-f177c9acbc2910ea6aecf20558720282.ctex"]
 
 [params]
 

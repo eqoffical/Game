@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lea7cgh88ngm"
-path="res://.godot/imported/PBLAK.png-1fff5911971e15f8e4c077135366ce9a.ctex"
+path="res://.godot/imported/PBLAK.png-5c7188875c1388b8e033419d9b11b5cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PBLAK.png"
-dest_files=["res://.godot/imported/PBLAK.png-1fff5911971e15f8e4c077135366ce9a.ctex"]
+source_file="res://trenchbroom/textures/PBLAK.png"
+dest_files=["res://.godot/imported/PBLAK.png-5c7188875c1388b8e033419d9b11b5cc.ctex"]
 
 [params]
 

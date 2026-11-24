@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://40144hy3gr1j"
-path="res://.godot/imported/DOBIGTVB.png-73edb8092443e1bac425e3a392d2398a.ctex"
+path="res://.godot/imported/DOBIGTVB.png-0552a0a13e8f5b71d61c6545471ba0c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOBIGTVB.png"
-dest_files=["res://.godot/imported/DOBIGTVB.png-73edb8092443e1bac425e3a392d2398a.ctex"]
+source_file="res://trenchbroom/textures/DOBIGTVB.png"
+dest_files=["res://.godot/imported/DOBIGTVB.png-0552a0a13e8f5b71d61c6545471ba0c3.ctex"]
 
 [params]
 

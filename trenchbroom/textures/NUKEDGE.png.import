@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3oxby1wawy3w"
-path="res://.godot/imported/NUKEDGE.png-915c5e5fbf9dce8aeec21fa0094144ed.ctex"
+path="res://.godot/imported/NUKEDGE.png-14c9bc4122b11a1409649fd34f9077dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/NUKEDGE.png"
-dest_files=["res://.godot/imported/NUKEDGE.png-915c5e5fbf9dce8aeec21fa0094144ed.ctex"]
+source_file="res://trenchbroom/textures/NUKEDGE.png"
+dest_files=["res://.godot/imported/NUKEDGE.png-14c9bc4122b11a1409649fd34f9077dd.ctex"]
 
 [params]
 

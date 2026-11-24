@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs7ngqlskc0h8"
-path="res://.godot/imported/PLAYD1.png-17fb9aa17da0740753177f3204e18a64.ctex"
+path="res://.godot/imported/PLAYD1.png-d83617000bac3dc0a91b4ca5bb65e4bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PLAYD1.png"
-dest_files=["res://.godot/imported/PLAYD1.png-17fb9aa17da0740753177f3204e18a64.ctex"]
+source_file="res://trenchbroom/textures/PLAYD1.png"
+dest_files=["res://.godot/imported/PLAYD1.png-d83617000bac3dc0a91b4ca5bb65e4bd.ctex"]
 
 [params]
 

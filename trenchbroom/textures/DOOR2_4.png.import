@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkugh1uyp0c28"
-path="res://.godot/imported/DOOR2_4.png-685057f51c122e98c4820fca3a23509f.ctex"
+path="res://.godot/imported/DOOR2_4.png-cac1a4bded19fae9515d59ba5072ae34.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOOR2_4.png"
-dest_files=["res://.godot/imported/DOOR2_4.png-685057f51c122e98c4820fca3a23509f.ctex"]
+source_file="res://trenchbroom/textures/DOOR2_4.png"
+dest_files=["res://.godot/imported/DOOR2_4.png-cac1a4bded19fae9515d59ba5072ae34.ctex"]
 
 [params]
 

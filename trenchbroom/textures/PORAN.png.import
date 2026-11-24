@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0ff6r4bf8fxo"
-path="res://.godot/imported/PORAN.png-c10160263c335485a2d9fad218cb98b0.ctex"
+path="res://.godot/imported/PORAN.png-e950e239a1d61bcf0b96acc600821da3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PORAN.png"
-dest_files=["res://.godot/imported/PORAN.png-c10160263c335485a2d9fad218cb98b0.ctex"]
+source_file="res://trenchbroom/textures/PORAN.png"
+dest_files=["res://.godot/imported/PORAN.png-e950e239a1d61bcf0b96acc600821da3.ctex"]
 
 [params]
 

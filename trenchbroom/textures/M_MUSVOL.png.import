@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djjrxwcwqjnvy"
-path="res://.godot/imported/M_MUSVOL.png-138f41a494bc49445c9086c2ca0983d4.ctex"
+path="res://.godot/imported/M_MUSVOL.png-3657c9bb46fc8b75a1f53e0b19105872.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_MUSVOL.png"
-dest_files=["res://.godot/imported/M_MUSVOL.png-138f41a494bc49445c9086c2ca0983d4.ctex"]
+source_file="res://trenchbroom/textures/M_MUSVOL.png"
+dest_files=["res://.godot/imported/M_MUSVOL.png-3657c9bb46fc8b75a1f53e0b19105872.ctex"]
 
 [params]
 

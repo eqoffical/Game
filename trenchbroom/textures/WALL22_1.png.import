@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnxxtvwullctj"
-path="res://.godot/imported/WALL22_1.png-15cc87129c944d2adebe07455b0ef451.ctex"
+path="res://.godot/imported/WALL22_1.png-ed27df32988614e450ab031a50435208.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WALL22_1.png"
-dest_files=["res://.godot/imported/WALL22_1.png-15cc87129c944d2adebe07455b0ef451.ctex"]
+source_file="res://trenchbroom/textures/WALL22_1.png"
+dest_files=["res://.godot/imported/WALL22_1.png-ed27df32988614e450ab031a50435208.ctex"]
 
 [params]
 

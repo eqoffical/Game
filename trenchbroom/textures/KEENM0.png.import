@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mod5qig5xloq"
-path="res://.godot/imported/KEENM0.png-1c2f602ec74b2e3c9a47d0b903c33ef8.ctex"
+path="res://.godot/imported/KEENM0.png-cad8812afb9711707aaeedd531202820.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/KEENM0.png"
-dest_files=["res://.godot/imported/KEENM0.png-1c2f602ec74b2e3c9a47d0b903c33ef8.ctex"]
+source_file="res://trenchbroom/textures/KEENM0.png"
+dest_files=["res://.godot/imported/KEENM0.png-cad8812afb9711707aaeedd531202820.ctex"]
 
 [params]
 

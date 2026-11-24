@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dc0nk0oh6dc1q"
-path="res://.godot/imported/ELECA0.png-052982122cd1e2a16d5f75a663d63704.ctex"
+path="res://.godot/imported/ELECA0.png-58e1e6781d8394164f4bb426688de5b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/ELECA0.png"
-dest_files=["res://.godot/imported/ELECA0.png-052982122cd1e2a16d5f75a663d63704.ctex"]
+source_file="res://trenchbroom/textures/ELECA0.png"
+dest_files=["res://.godot/imported/ELECA0.png-58e1e6781d8394164f4bb426688de5b4.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ex2qyrvmhmpc"
-path="res://.godot/imported/BIGMURAL.png-985f47e0acc5086507ec921bc202246b.ctex"
+path="res://.godot/imported/BIGMURAL.png-8e5d657222510595176b5ca9bc201ca9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/BIGMURAL.png"
-dest_files=["res://.godot/imported/BIGMURAL.png-985f47e0acc5086507ec921bc202246b.ctex"]
+source_file="res://trenchbroom/textures/BIGMURAL.png"
+dest_files=["res://.godot/imported/BIGMURAL.png-8e5d657222510595176b5ca9bc201ca9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwjem1xevunyr"
-path="res://.godot/imported/ASPHALT.png-dbf824682db6e7034d31e0ab69c4772e.ctex"
+path="res://.godot/imported/ASPHALT.png-67dbbab2496a0c53df9b1db6703c5425.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/ASPHALT.png"
-dest_files=["res://.godot/imported/ASPHALT.png-dbf824682db6e7034d31e0ab69c4772e.ctex"]
+source_file="res://trenchbroom/textures/ASPHALT.png"
+dest_files=["res://.godot/imported/ASPHALT.png-67dbbab2496a0c53df9b1db6703c5425.ctex"]
 
 [params]
 

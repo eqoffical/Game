@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxu61erypfj3m"
-path="res://.godot/imported/M_CHAT.png-a5d5ea756491ea6232670e3c98d4dd89.ctex"
+path="res://.godot/imported/M_CHAT.png-74792918ca76da3e377895f523ab1769.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_CHAT.png"
-dest_files=["res://.godot/imported/M_CHAT.png-a5d5ea756491ea6232670e3c98d4dd89.ctex"]
+source_file="res://trenchbroom/textures/M_CHAT.png"
+dest_files=["res://.godot/imported/M_CHAT.png-74792918ca76da3e377895f523ab1769.ctex"]
 
 [params]
 

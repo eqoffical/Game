@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cidvml55urp3i"
-path="res://.godot/imported/DOSLVR12.png-d1dbd68820891b26896610ad7767ff9b.ctex"
+path="res://.godot/imported/DOSLVR12.png-a3771e49cc03b6514eded049a6aab8a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOSLVR12.png"
-dest_files=["res://.godot/imported/DOSLVR12.png-d1dbd68820891b26896610ad7767ff9b.ctex"]
+source_file="res://trenchbroom/textures/DOSLVR12.png"
+dest_files=["res://.godot/imported/DOSLVR12.png-a3771e49cc03b6514eded049a6aab8a7.ctex"]
 
 [params]
 

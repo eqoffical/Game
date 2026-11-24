@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccvtri2yg88mo"
-path="res://.godot/imported/BLITA0.png-0cc1dc2c125ebc30ce01beb5e3615ec4.ctex"
+path="res://.godot/imported/BLITA0.png-c0b74528ca144ae4d331d18372620745.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/BLITA0.png"
-dest_files=["res://.godot/imported/BLITA0.png-0cc1dc2c125ebc30ce01beb5e3615ec4.ctex"]
+source_file="res://trenchbroom/textures/BLITA0.png"
+dest_files=["res://.godot/imported/BLITA0.png-c0b74528ca144ae4d331d18372620745.ctex"]
 
 [params]
 

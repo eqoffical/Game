@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k0b7ja1b1ueq"
-path="res://.godot/imported/DOSDAY.png-3757a894f20094ebef617c7be4a16605.ctex"
+path="res://.godot/imported/DOSDAY.png-9c63487457da65d8c9f557bfc741dc10.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOSDAY.png"
-dest_files=["res://.godot/imported/DOSDAY.png-3757a894f20094ebef617c7be4a16605.ctex"]
+source_file="res://trenchbroom/textures/DOSDAY.png"
+dest_files=["res://.godot/imported/DOSDAY.png-9c63487457da65d8c9f557bfc741dc10.ctex"]
 
 [params]
 

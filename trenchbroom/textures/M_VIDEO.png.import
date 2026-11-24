@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0bdceub75bnd"
-path="res://.godot/imported/M_VIDEO.png-4059cc161ab12c68bb3301eb3519efa2.ctex"
+path="res://.godot/imported/M_VIDEO.png-870dee0f97c515b38e52e7ba0c0faaec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_VIDEO.png"
-dest_files=["res://.godot/imported/M_VIDEO.png-4059cc161ab12c68bb3301eb3519efa2.ctex"]
+source_file="res://trenchbroom/textures/M_VIDEO.png"
+dest_files=["res://.godot/imported/M_VIDEO.png-870dee0f97c515b38e52e7ba0c0faaec.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cslyug7ktm7k8"
-path="res://.godot/imported/AQF044.png-109e0a93936f09547bb1cd19176d2fc9.ctex"
+path="res://.godot/imported/AQF044.png-ed1235220e9b1c7cec740d2b4583413b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/AQF044.png"
-dest_files=["res://.godot/imported/AQF044.png-109e0a93936f09547bb1cd19176d2fc9.ctex"]
+source_file="res://trenchbroom/textures/AQF044.png"
+dest_files=["res://.godot/imported/AQF044.png-ed1235220e9b1c7cec740d2b4583413b.ctex"]
 
 [params]
 

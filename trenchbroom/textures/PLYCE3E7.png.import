@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blx7npvcvl0m8"
-path="res://.godot/imported/PLYCE3E7.png-9816fe61a64f422f356837ff25736b59.ctex"
+path="res://.godot/imported/PLYCE3E7.png-ee43f05fb8a895502e50e4eb7ed9de1c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PLYCE3E7.png"
-dest_files=["res://.godot/imported/PLYCE3E7.png-9816fe61a64f422f356837ff25736b59.ctex"]
+source_file="res://trenchbroom/textures/PLYCE3E7.png"
+dest_files=["res://.godot/imported/PLYCE3E7.png-ee43f05fb8a895502e50e4eb7ed9de1c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjgy5bvue5y0k"
-path="res://.godot/imported/POL3A0.png-795f4c752bc38a6fa93cb5f79adde28c.ctex"
+path="res://.godot/imported/POL3A0.png-b94e313c85010715b3f723db72f0df7c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/POL3A0.png"
-dest_files=["res://.godot/imported/POL3A0.png-795f4c752bc38a6fa93cb5f79adde28c.ctex"]
+source_file="res://trenchbroom/textures/POL3A0.png"
+dest_files=["res://.godot/imported/POL3A0.png-b94e313c85010715b3f723db72f0df7c.ctex"]
 
 [params]
 

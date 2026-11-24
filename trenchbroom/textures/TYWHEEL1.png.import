@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ggjci33uovov"
-path="res://.godot/imported/TYWHEEL1.png-1e010ed4a9b1cfcf59bdb8b2d030bb6f.ctex"
+path="res://.godot/imported/TYWHEEL1.png-6f1af88aeeed0b9d34b31d40008dfbcd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/TYWHEEL1.png"
-dest_files=["res://.godot/imported/TYWHEEL1.png-1e010ed4a9b1cfcf59bdb8b2d030bb6f.ctex"]
+source_file="res://trenchbroom/textures/TYWHEEL1.png"
+dest_files=["res://.godot/imported/TYWHEEL1.png-6f1af88aeeed0b9d34b31d40008dfbcd.ctex"]
 
 [params]
 

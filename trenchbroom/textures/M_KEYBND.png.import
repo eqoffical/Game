@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://haxdk65rudpy"
-path="res://.godot/imported/M_KEYBND.png-b074fc0f80ef62fd237d96e27ab7be27.ctex"
+path="res://.godot/imported/M_KEYBND.png-6e664a54ea88c287a50e1b47265d47f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_KEYBND.png"
-dest_files=["res://.godot/imported/M_KEYBND.png-b074fc0f80ef62fd237d96e27ab7be27.ctex"]
+source_file="res://trenchbroom/textures/M_KEYBND.png"
+dest_files=["res://.godot/imported/M_KEYBND.png-6e664a54ea88c287a50e1b47265d47f5.ctex"]
 
 [params]
 

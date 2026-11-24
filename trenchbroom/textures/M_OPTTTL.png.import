@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciy2mwisrgxth"
-path="res://.godot/imported/M_OPTTTL.png-6cf2ce45830a48b98fb10bdd7ca84b1c.ctex"
+path="res://.godot/imported/M_OPTTTL.png-4c9f3106d3f9f5d9f2d527046125461e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_OPTTTL.png"
-dest_files=["res://.godot/imported/M_OPTTTL.png-6cf2ce45830a48b98fb10bdd7ca84b1c.ctex"]
+source_file="res://trenchbroom/textures/M_OPTTTL.png"
+dest_files=["res://.godot/imported/M_OPTTTL.png-4c9f3106d3f9f5d9f2d527046125461e.ctex"]
 
 [params]
 

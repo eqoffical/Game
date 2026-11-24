@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnplf31gundcy"
-path="res://.godot/imported/STYSNUM1.png-d2494ad64047c35b51040b5decb101a9.ctex"
+path="res://.godot/imported/STYSNUM1.png-7672e58768180eab60602385283b0f37.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/STYSNUM1.png"
-dest_files=["res://.godot/imported/STYSNUM1.png-d2494ad64047c35b51040b5decb101a9.ctex"]
+source_file="res://trenchbroom/textures/STYSNUM1.png"
+dest_files=["res://.godot/imported/STYSNUM1.png-7672e58768180eab60602385283b0f37.ctex"]
 
 [params]
 

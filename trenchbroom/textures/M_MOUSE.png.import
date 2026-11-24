@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bg3xcabf6blnb"
-path="res://.godot/imported/M_MOUSE.png-2d1405ab0eccacdbd072849459fb2a78.ctex"
+path="res://.godot/imported/M_MOUSE.png-feb8c677516f05d3342f6bdab2f164df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_MOUSE.png"
-dest_files=["res://.godot/imported/M_MOUSE.png-2d1405ab0eccacdbd072849459fb2a78.ctex"]
+source_file="res://trenchbroom/textures/M_MOUSE.png"
+dest_files=["res://.godot/imported/M_MOUSE.png-feb8c677516f05d3342f6bdab2f164df.ctex"]
 
 [params]
 

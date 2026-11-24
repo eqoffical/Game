@@ -3,19 +3,20 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6hp2kx6gd0ab"
-path="res://.godot/imported/WOLF14.png-6b4d33fa3ed2942d5b9643c41e2cd69b.ctex"
+path.s3tc="res://.godot/imported/WOLF14.png-5dbacf1f1a1e605d6d016d55661dbfff.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WOLF14.png"
-dest_files=["res://.godot/imported/WOLF14.png-6b4d33fa3ed2942d5b9643c41e2cd69b.ctex"]
+source_file="res://trenchbroom/textures/WOLF14.png"
+dest_files=["res://.godot/imported/WOLF14.png-5dbacf1f1a1e605d6d016d55661dbfff.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -23,7 +24,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=false
+mipmaps/generate=true
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
@@ -37,4 +38,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0

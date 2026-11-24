@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duyc4eohnsy6e"
-path="res://.godot/imported/VILER0.png-389d0cf29a61530b46b8bd4711f1d565.ctex"
+path="res://.godot/imported/VILER0.png-a77495061fbe554d78dd4a9f381e88ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/VILER0.png"
-dest_files=["res://.godot/imported/VILER0.png-389d0cf29a61530b46b8bd4711f1d565.ctex"]
+source_file="res://trenchbroom/textures/VILER0.png"
+dest_files=["res://.godot/imported/VILER0.png-a77495061fbe554d78dd4a9f381e88ed.ctex"]
 
 [params]
 

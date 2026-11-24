@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6ksavteob4j6"
-path="res://.godot/imported/BROWN5.png-ac067e0c80f0899c7ca45f77d974523f.ctex"
+path="res://.godot/imported/BROWN5.png-6c189b53764c3c61825ec9b4c0e04132.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/BROWN5.png"
-dest_files=["res://.godot/imported/BROWN5.png-ac067e0c80f0899c7ca45f77d974523f.ctex"]
+source_file="res://trenchbroom/textures/BROWN5.png"
+dest_files=["res://.godot/imported/BROWN5.png-6c189b53764c3c61825ec9b4c0e04132.ctex"]
 
 [params]
 

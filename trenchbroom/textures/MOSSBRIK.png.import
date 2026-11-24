@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7c26mgd73jtc"
-path="res://.godot/imported/MOSSBRIK.png-078386a4f5af4a2a5956e7f50a793d4e.ctex"
+path="res://.godot/imported/MOSSBRIK.png-6798c184988960013e0032a3852efc22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/MOSSBRIK.png"
-dest_files=["res://.godot/imported/MOSSBRIK.png-078386a4f5af4a2a5956e7f50a793d4e.ctex"]
+source_file="res://trenchbroom/textures/MOSSBRIK.png"
+dest_files=["res://.godot/imported/MOSSBRIK.png-6798c184988960013e0032a3852efc22.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch0bjj1vbn8uy"
-path="res://.godot/imported/LAUNA0.png-4dc906842d4fc9041e4253e261966ed6.ctex"
+path="res://.godot/imported/LAUNA0.png-9d61d396b4248d64da5b8a08bd77d7ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/LAUNA0.png"
-dest_files=["res://.godot/imported/LAUNA0.png-4dc906842d4fc9041e4253e261966ed6.ctex"]
+source_file="res://trenchbroom/textures/LAUNA0.png"
+dest_files=["res://.godot/imported/LAUNA0.png-9d61d396b4248d64da5b8a08bd77d7ce.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yubhn6f5xva2"
-path="res://.godot/imported/MANFB7B3.png-5dd6b2f4eb3ef3ed106d19729a39e34e.ctex"
+path="res://.godot/imported/MANFB7B3.png-80a0f85693ceb5922664e0239aba78b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/MANFB7B3.png"
-dest_files=["res://.godot/imported/MANFB7B3.png-5dd6b2f4eb3ef3ed106d19729a39e34e.ctex"]
+source_file="res://trenchbroom/textures/MANFB7B3.png"
+dest_files=["res://.godot/imported/MANFB7B3.png-80a0f85693ceb5922664e0239aba78b8.ctex"]
 
 [params]
 

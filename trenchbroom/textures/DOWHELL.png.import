@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0b2j3861q82k"
-path="res://.godot/imported/DOWHELL.png-a3b1ac0fe5482772da7545e56fe92a13.ctex"
+path="res://.godot/imported/DOWHELL.png-ab807b6f22215159c7494d003452b235.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOWHELL.png"
-dest_files=["res://.godot/imported/DOWHELL.png-a3b1ac0fe5482772da7545e56fe92a13.ctex"]
+source_file="res://trenchbroom/textures/DOWHELL.png"
+dest_files=["res://.godot/imported/DOWHELL.png-ab807b6f22215159c7494d003452b235.ctex"]
 
 [params]
 

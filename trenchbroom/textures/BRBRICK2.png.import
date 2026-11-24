@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsrjti7g03yf5"
-path="res://.godot/imported/BRBRICK2.png-00a7694ef830d6c7fc9ac964ddae1a4c.ctex"
+path="res://.godot/imported/BRBRICK2.png-2b68c1fe03cf087f072e58f63fe03514.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/BRBRICK2.png"
-dest_files=["res://.godot/imported/BRBRICK2.png-00a7694ef830d6c7fc9ac964ddae1a4c.ctex"]
+source_file="res://trenchbroom/textures/BRBRICK2.png"
+dest_files=["res://.godot/imported/BRBRICK2.png-2b68c1fe03cf087f072e58f63fe03514.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvnyqcgi2kmwa"
-path="res://.godot/imported/AMMNUM1.png-99f96d0557c989b24360cbfa3aefd6ca.ctex"
+path="res://.godot/imported/AMMNUM1.png-9649a533991a3798b077162cc9978f97.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/AMMNUM1.png"
-dest_files=["res://.godot/imported/AMMNUM1.png-99f96d0557c989b24360cbfa3aefd6ca.ctex"]
+source_file="res://trenchbroom/textures/AMMNUM1.png"
+dest_files=["res://.godot/imported/AMMNUM1.png-9649a533991a3798b077162cc9978f97.ctex"]
 
 [params]
 

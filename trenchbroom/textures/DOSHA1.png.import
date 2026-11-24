@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1dc67mg2x4eu"
-path="res://.godot/imported/DOSHA1.png-68089b0e52368e0f4443c64bb6665e44.ctex"
+path="res://.godot/imported/DOSHA1.png-562512d2a0a837b93180c46d30d8688a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOSHA1.png"
-dest_files=["res://.godot/imported/DOSHA1.png-68089b0e52368e0f4443c64bb6665e44.ctex"]
+source_file="res://trenchbroom/textures/DOSHA1.png"
+dest_files=["res://.godot/imported/DOSHA1.png-562512d2a0a837b93180c46d30d8688a.ctex"]
 
 [params]
 

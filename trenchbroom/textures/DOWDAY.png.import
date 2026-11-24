@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7mutjrx55k67"
-path="res://.godot/imported/DOWDAY.png-699ed1ebf4d3c3c5f07526dd203ec736.ctex"
+path="res://.godot/imported/DOWDAY.png-49566048d9bd19b9f6b6a2a86fa959c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOWDAY.png"
-dest_files=["res://.godot/imported/DOWDAY.png-699ed1ebf4d3c3c5f07526dd203ec736.ctex"]
+source_file="res://trenchbroom/textures/DOWDAY.png"
+dest_files=["res://.godot/imported/DOWDAY.png-49566048d9bd19b9f6b6a2a86fa959c0.ctex"]
 
 [params]
 

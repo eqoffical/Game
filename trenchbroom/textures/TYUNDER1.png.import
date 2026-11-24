@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbrtvmry01d3f"
-path="res://.godot/imported/TYUNDER1.png-6322f0969e796a8dc982debb5fd8e62b.ctex"
+path="res://.godot/imported/TYUNDER1.png-c22a4d43f427f2a193e6d834e7f1805c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/TYUNDER1.png"
-dest_files=["res://.godot/imported/TYUNDER1.png-6322f0969e796a8dc982debb5fd8e62b.ctex"]
+source_file="res://trenchbroom/textures/TYUNDER1.png"
+dest_files=["res://.godot/imported/TYUNDER1.png-c22a4d43f427f2a193e6d834e7f1805c.ctex"]
 
 [params]
 

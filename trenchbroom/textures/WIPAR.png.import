@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duuoo74um8ghx"
-path="res://.godot/imported/WIPAR.png-415d3031f3bda8cd9916ea8e6bb0e109.ctex"
+path="res://.godot/imported/WIPAR.png-66618c03bb6602fdc074b00b47010594.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WIPAR.png"
-dest_files=["res://.godot/imported/WIPAR.png-415d3031f3bda8cd9916ea8e6bb0e109.ctex"]
+source_file="res://trenchbroom/textures/WIPAR.png"
+dest_files=["res://.godot/imported/WIPAR.png-66618c03bb6602fdc074b00b47010594.ctex"]
 
 [params]
 

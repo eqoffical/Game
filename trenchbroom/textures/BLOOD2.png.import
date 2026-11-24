@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxsov4hmdhv12"
-path="res://.godot/imported/BLOOD2.png-af4a3d2bc87307f0a4f08125d4d45db1.ctex"
+path="res://.godot/imported/BLOOD2.png-d0ecfcb128894f038e3e45f30ab2bd0f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/BLOOD2.png"
-dest_files=["res://.godot/imported/BLOOD2.png-af4a3d2bc87307f0a4f08125d4d45db1.ctex"]
+source_file="res://trenchbroom/textures/BLOOD2.png"
+dest_files=["res://.godot/imported/BLOOD2.png-d0ecfcb128894f038e3e45f30ab2bd0f.ctex"]
 
 [params]
 

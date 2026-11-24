@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gabvw3yny73j"
-path="res://.godot/imported/M_AUTO.png-516729931987f9ac9727ae861f41218f.ctex"
+path="res://.godot/imported/M_AUTO.png-606138d9316a9d09513ae9a9af3bbf75.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_AUTO.png"
-dest_files=["res://.godot/imported/M_AUTO.png-516729931987f9ac9727ae861f41218f.ctex"]
+source_file="res://trenchbroom/textures/M_AUTO.png"
+dest_files=["res://.godot/imported/M_AUTO.png-606138d9316a9d09513ae9a9af3bbf75.ctex"]
 
 [params]
 

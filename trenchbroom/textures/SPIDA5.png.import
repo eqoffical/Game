@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bag3j057uci1w"
-path="res://.godot/imported/SPIDA5.png-38dd2ffc69dd936af7d1dd301e4cdd49.ctex"
+path="res://.godot/imported/SPIDA5.png-88897cb722d1c90c61ff255d3f35fb28.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SPIDA5.png"
-dest_files=["res://.godot/imported/SPIDA5.png-38dd2ffc69dd936af7d1dd301e4cdd49.ctex"]
+source_file="res://trenchbroom/textures/SPIDA5.png"
+dest_files=["res://.godot/imported/SPIDA5.png-88897cb722d1c90c61ff255d3f35fb28.ctex"]
 
 [params]
 

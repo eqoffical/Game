@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmpo654gyurdj"
-path="res://.godot/imported/DOWINDOW.png-9e9a9d47d69b405752759e12c71a3334.ctex"
+path="res://.godot/imported/DOWINDOW.png-33e85dc4018a5cf3c69a031b26159a31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOWINDOW.png"
-dest_files=["res://.godot/imported/DOWINDOW.png-9e9a9d47d69b405752759e12c71a3334.ctex"]
+source_file="res://trenchbroom/textures/DOWINDOW.png"
+dest_files=["res://.godot/imported/DOWINDOW.png-33e85dc4018a5cf3c69a031b26159a31.ctex"]
 
 [params]
 

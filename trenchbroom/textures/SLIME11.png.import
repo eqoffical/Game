@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5k2oqp555vg"
-path="res://.godot/imported/SLIME11.png-1757a3433233c6e86697a4602a27bc38.ctex"
+path="res://.godot/imported/SLIME11.png-a8e346438c9de3a08301b3968b787592.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/SLIME11.png"
-dest_files=["res://.godot/imported/SLIME11.png-1757a3433233c6e86697a4602a27bc38.ctex"]
+source_file="res://trenchbroom/textures/SLIME11.png"
+dest_files=["res://.godot/imported/SLIME11.png-a8e346438c9de3a08301b3968b787592.ctex"]
 
 [params]
 

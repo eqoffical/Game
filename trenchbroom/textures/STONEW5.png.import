@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw3wv06jr060o"
-path="res://.godot/imported/STONEW5.png-1ee490da7ab3105cd339d1d3ae0f0257.ctex"
+path="res://.godot/imported/STONEW5.png-3b7721d3b44d4fb92cfabcaa9ee55694.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/STONEW5.png"
-dest_files=["res://.godot/imported/STONEW5.png-1ee490da7ab3105cd339d1d3ae0f0257.ctex"]
+source_file="res://trenchbroom/textures/STONEW5.png"
+dest_files=["res://.godot/imported/STONEW5.png-3b7721d3b44d4fb92cfabcaa9ee55694.ctex"]
 
 [params]
 

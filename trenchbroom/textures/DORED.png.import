@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfkbyvee161b2"
-path="res://.godot/imported/DORED.png-b4f37a73007a9e871371856eccfb9b14.ctex"
+path="res://.godot/imported/DORED.png-f39c1bba3673e32310347a2811665879.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DORED.png"
-dest_files=["res://.godot/imported/DORED.png-b4f37a73007a9e871371856eccfb9b14.ctex"]
+source_file="res://trenchbroom/textures/DORED.png"
+dest_files=["res://.godot/imported/DORED.png-f39c1bba3673e32310347a2811665879.ctex"]
 
 [params]
 

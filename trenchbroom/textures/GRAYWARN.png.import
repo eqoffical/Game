@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwkfgfrp4h5yx"
-path="res://.godot/imported/GRAYWARN.png-e96c51a5f23e7ce5886f2dc7445f3f14.ctex"
+path="res://.godot/imported/GRAYWARN.png-c6f12c80f470fd586b7fb45dbcc5658d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/GRAYWARN.png"
-dest_files=["res://.godot/imported/GRAYWARN.png-e96c51a5f23e7ce5886f2dc7445f3f14.ctex"]
+source_file="res://trenchbroom/textures/GRAYWARN.png"
+dest_files=["res://.godot/imported/GRAYWARN.png-c6f12c80f470fd586b7fb45dbcc5658d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://daxk5xahhqmuj"
-path="res://.godot/imported/DOBLIP2A.png-3931f29b787b436d3bc604f6f5cdf738.ctex"
+path="res://.godot/imported/DOBLIP2A.png-5e780ba56663dda90268a9c919166f39.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/DOBLIP2A.png"
-dest_files=["res://.godot/imported/DOBLIP2A.png-3931f29b787b436d3bc604f6f5cdf738.ctex"]
+source_file="res://trenchbroom/textures/DOBLIP2A.png"
+dest_files=["res://.godot/imported/DOBLIP2A.png-5e780ba56663dda90268a9c919166f39.ctex"]
 
 [params]
 

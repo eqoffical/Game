@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuh5m1abammbp"
-path="res://.godot/imported/PAINA2A8.png-89494a30c057cc3c1bb4ca74159c6e64.ctex"
+path="res://.godot/imported/PAINA2A8.png-2ad68120dff3facfb7a0356d8e0b89df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/PAINA2A8.png"
-dest_files=["res://.godot/imported/PAINA2A8.png-89494a30c057cc3c1bb4ca74159c6e64.ctex"]
+source_file="res://trenchbroom/textures/PAINA2A8.png"
+dest_files=["res://.godot/imported/PAINA2A8.png-2ad68120dff3facfb7a0356d8e0b89df.ctex"]
 
 [params]
 

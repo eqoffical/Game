@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://p7mvv3tfhvsn"
-path="res://.godot/imported/M_DMFLAG.png-f760082f23151ccc3d8f7d803bc7ff92.ctex"
+path="res://.godot/imported/M_DMFLAG.png-ded4c0afa657df644072234d0f7683b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/M_DMFLAG.png"
-dest_files=["res://.godot/imported/M_DMFLAG.png-f760082f23151ccc3d8f7d803bc7ff92.ctex"]
+source_file="res://trenchbroom/textures/M_DMFLAG.png"
+dest_files=["res://.godot/imported/M_DMFLAG.png-ded4c0afa657df644072234d0f7683b4.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvbyp2v70xbp4"
-path="res://.godot/imported/BLOD128B.png-939a6f1b9754e100ac7c5f63dbad1aea.ctex"
+path="res://.godot/imported/BLOD128B.png-c99267354deeb504e9feb673e245cdfd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/BLOD128B.png"
-dest_files=["res://.godot/imported/BLOD128B.png-939a6f1b9754e100ac7c5f63dbad1aea.ctex"]
+source_file="res://trenchbroom/textures/BLOD128B.png"
+dest_files=["res://.godot/imported/BLOD128B.png-c99267354deeb504e9feb673e245cdfd.ctex"]
 
 [params]
 

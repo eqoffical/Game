@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8c3nmr8udjt7"
-path="res://.godot/imported/WIENTER.png-900287991daf8a0868fcc809c7b5c292.ctex"
+path="res://.godot/imported/WIENTER.png-f1cd9a0e5f6817480110e3adfe420150.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WIENTER.png"
-dest_files=["res://.godot/imported/WIENTER.png-900287991daf8a0868fcc809c7b5c292.ctex"]
+source_file="res://trenchbroom/textures/WIENTER.png"
+dest_files=["res://.godot/imported/WIENTER.png-f1cd9a0e5f6817480110e3adfe420150.ctex"]
 
 [params]
 

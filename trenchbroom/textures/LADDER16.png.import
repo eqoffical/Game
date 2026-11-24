@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckgo3trvyq03j"
-path="res://.godot/imported/LADDER16.png-391f620b684957a3ff990c8c4bfe946d.ctex"
+path="res://.godot/imported/LADDER16.png-6cce8094d57f43af4d2bf72376ab3c98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/LADDER16.png"
-dest_files=["res://.godot/imported/LADDER16.png-391f620b684957a3ff990c8c4bfe946d.ctex"]
+source_file="res://trenchbroom/textures/LADDER16.png"
+dest_files=["res://.godot/imported/LADDER16.png-6cce8094d57f43af4d2bf72376ab3c98.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ynr1pl24o26u"
-path="res://.godot/imported/WIMINUS.png-2db9fb092c1c30093f7c7c66f3e65f31.ctex"
+path="res://.godot/imported/WIMINUS.png-0d280d40ae3fd9a43220ca8894a027e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/freedoom-0.13.0/graphics/WIMINUS.png"
-dest_files=["res://.godot/imported/WIMINUS.png-2db9fb092c1c30093f7c7c66f3e65f31.ctex"]
+source_file="res://trenchbroom/textures/WIMINUS.png"
+dest_files=["res://.godot/imported/WIMINUS.png-0d280d40ae3fd9a43220ca8894a027e4.ctex"]
 
 [params]
 

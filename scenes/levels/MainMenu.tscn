@@ -57,6 +57,7 @@ offset_right = -111.0
 offset_bottom = -30.0
 grow_horizontal = 2
 grow_vertical = 2
+mouse_filter = 2
 texture = ExtResource("2_bdi62")
 
 [node name="ExitButton" type="TextureButton" parent="." unique_id=699617784]
@@ -83,4 +84,5 @@ offset_right = -114.0
 offset_bottom = -30.0
 grow_horizontal = 2
 grow_vertical = 2
+mouse_filter = 2
 texture = ExtResource("3_vnkkj")

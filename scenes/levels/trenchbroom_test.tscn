@@ -10,6 +10,7 @@
 [ext_resource type="Material" uid="uid://d4la204wp2xts" path="res://trenchbroom/textures/FLAT3.tres" id="6_0sojc"]
 [ext_resource type="Material" uid="uid://buvg8wb4fj4s5" path="res://trenchbroom/textures/FLAT14.tres" id="8_pw3n7"]
 [ext_resource type="PackedScene" uid="uid://75iex1wh03co" path="res://scenes/entities/mob.tscn" id="9_0sojc"]
+[ext_resource type="PackedScene" uid="uid://b4n2y5dlb0ia2" path="res://scenes/levels/pausemenu.tscn" id="11_s8xqv"]
 
 [sub_resource type="Environment" id="Environment_rtt8a"]
 background_mode = 1
@@ -609,3 +610,7 @@ mesh = SubResource("QuadMesh_jjlym")
 transform = Transform3D(1, 0, -7.1054274e-15, 0, 1, 0, 7.1054274e-15, 0, 1, -1.780112, 0.8949572, -23.879574)
 material_override = SubResource("StandardMaterial3D_cx6xd")
 mesh = SubResource("QuadMesh_jjlym")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1379601542]
+
+[node name="Pausemenu" parent="CanvasLayer" unique_id=1608243613 instance=ExtResource("11_s8xqv")]

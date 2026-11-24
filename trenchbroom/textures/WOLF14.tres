@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://f17hho4gkvl5"]
+
+[ext_resource type="Texture2D" uid="uid://6hp2kx6gd0ab" path="res://trenchbroom/textures/WOLF14.png" id="1_28ief"]
+
+[resource]
+albedo_texture = ExtResource("1_28ief")
+metallic_specular = 0.0
+texture_filter = 2

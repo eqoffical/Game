@@ -12,7 +12,7 @@ const JUMP_VELOCITY := 4
 const GRAVITY := 10.0
 
 @onready var health_component: HealthComponent = $HealthComponent
-@onready var health_bar: TextureProgressBar = get_node_or_null("../CanvasLayer/TextureProgressBar")
+@onready var health_bar: TextureProgressBar = %HealthBar
 
 func _ready():
 	add_to_group("player")

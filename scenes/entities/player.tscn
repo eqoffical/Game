@@ -1,7 +1,10 @@
 [gd_scene format=3 uid="uid://cmt1pdnkxvf1c"]
 
 [ext_resource type="Script" uid="uid://cwxuvyb3mfbmk" path="res://scripts/entities/player.gd" id="1_ucweq"]
+[ext_resource type="Texture2D" uid="uid://dpswddnr80w5x" path="res://assets/textures/hp-bar/under.png" id="2_5u6hq"]
 [ext_resource type="Script" uid="uid://dpmuru5vfigex" path="res://scripts/entities/HealthComponent.gd" id="2_08t41"]
+[ext_resource type="Texture2D" uid="uid://b25p85ki57yr8" path="res://assets/textures/hp-bar/frame.png" id="3_d4qa6"]
+[ext_resource type="Texture2D" uid="uid://dt6tojk466qir" path="res://assets/textures/hp-bar/progress.png" id="4_ss7kx"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_hrxse"]
 albedo_color = Color(0.23392546, 0.23392546, 0.23392543, 1)
@@ -70,6 +73,22 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.03, -0.03, -0.1)
 layers = 64
 material_override = SubResource("StandardMaterial3D_0qees")
 mesh = SubResource("BoxMesh_ucweq")
+
+[node name="HealthBar" type="TextureProgressBar" parent="CanvasLayer/SubViewportContainer/SubViewport" unique_id=1859276226]
+unique_name_in_owner = true
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -260.0
+offset_top = -34.0
+grow_horizontal = 0
+grow_vertical = 0
+nine_patch_stretch = true
+texture_under = ExtResource("2_5u6hq")
+texture_over = ExtResource("3_d4qa6")
+texture_progress = ExtResource("4_ss7kx")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=484138198]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)

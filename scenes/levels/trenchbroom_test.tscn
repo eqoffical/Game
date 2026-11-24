@@ -9,9 +9,6 @@
 [ext_resource type="Material" uid="uid://d4la204wp2xts" path="res://trenchbroom/textures/FLAT3.tres" id="6_0sojc"]
 [ext_resource type="Material" uid="uid://buvg8wb4fj4s5" path="res://trenchbroom/textures/FLAT14.tres" id="8_pw3n7"]
 [ext_resource type="PackedScene" uid="uid://75iex1wh03co" path="res://scenes/entities/mob.tscn" id="9_0sojc"]
-[ext_resource type="Texture2D" uid="uid://dpswddnr80w5x" path="res://assets/textures/hp-bar/under.png" id="10_pg3gt"]
-[ext_resource type="Texture2D" uid="uid://b25p85ki57yr8" path="res://assets/textures/hp-bar/frame.png" id="11_7f3h6"]
-[ext_resource type="Texture2D" uid="uid://dt6tojk466qir" path="res://assets/textures/hp-bar/progress.png" id="12_c0mq4"]
 
 [sub_resource type="Environment" id="Environment_rtt8a"]
 background_mode = 1
@@ -263,15 +260,3 @@ shape = SubResource("ConvexPolygonShape3D_3ancu")
 
 [node name="entity_0_brush_25_collision_shape" type="CollisionShape3D" parent="FuncGodotMap/entity_0_worldspawn" unique_id=43818425]
 shape = SubResource("ConvexPolygonShape3D_e1hwt")
-
-[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=2140504459]
-
-[node name="TextureProgressBar" type="TextureProgressBar" parent="CanvasLayer" unique_id=1893523557]
-offset_left = 872.0
-offset_top = 664.0
-offset_right = 1132.0
-offset_bottom = 698.0
-nine_patch_stretch = true
-texture_under = ExtResource("10_pg3gt")
-texture_over = ExtResource("11_7f3h6")
-texture_progress = ExtResource("12_c0mq4")

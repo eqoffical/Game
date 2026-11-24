@@ -2,6 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://cmt1pdnkxvf1c" path="res://scenes/entities/player.tscn" id="1_rtt8a"]
 [ext_resource type="Script" uid="uid://cwu5cf7a0awcd" path="res://addons/func_godot/src/map/func_godot_map.gd" id="2_ty4qt"]
+[ext_resource type="PackedScene" uid="uid://cxddbko22s1pe" path="res://scenes/entities/tarbaby.tscn" id="3_i2qe6"]
 [ext_resource type="Resource" uid="uid://dibuq1dbjrlb7" path="res://trenchbroom/Grind_settings.tres" id="3_uaddn"]
 [ext_resource type="Material" uid="uid://ck0jj3q1na7c7" path="res://trenchbroom/textures/FLAT5_1.tres" id="4_ty4qt"]
 [ext_resource type="Material" uid="uid://gb4738vg6whi" path="res://trenchbroom/textures/FLAT1.tres" id="5_pw3n7"]
@@ -336,6 +337,9 @@ camera_attributes = SubResource("CameraAttributesPractical_ty4qt")
 
 [node name="Mob" parent="." unique_id=2086174491 instance=ExtResource("9_0sojc")]
 transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.9589643, 0, -14.945251)
+
+[node name="Tarbaby" parent="." unique_id=293273169 instance=ExtResource("3_i2qe6")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 25.757437, 0.5, -13.156015)
 
 [node name="FuncGodotMap" type="Node3D" parent="." unique_id=827167165]
 transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 1.2765388, -1, -15.88483)

@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://cxddbko22s1pe"]
 
 [ext_resource type="Script" uid="uid://dpmuru5vfigex" path="res://scripts/entities/HealthComponent.gd" id="1_ggfol"]
+[ext_resource type="Script" uid="uid://e7486egvec6p" path="res://scripts/entities/tarbaby.gd" id="1_n0b28"]
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_j3wxa"]
 
@@ -11,11 +12,14 @@ albedo_color = Color(0, 0.32941177, 0.8627451, 1)
 material = SubResource("StandardMaterial3D_cx6xd")
 
 [node name="Tarbaby" type="RigidBody3D" unique_id=293273169]
+script = ExtResource("1_n0b28")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1284038299]
+transform = Transform3D(1.8, 0, 0, 0, 1.8, 0, 0, 0, 1.8, 0, 0, 0)
 shape = SubResource("SphereShape3D_j3wxa")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=492506347]
+transform = Transform3D(1.8, 0, 0, 0, 1.8, 0, 0, 0, 1.8, 0, 0, 0)
 mesh = SubResource("SphereMesh_jjlym")
 
 [node name="HealthComponent" type="Node" parent="." unique_id=1329747532]
